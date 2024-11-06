@@ -1,0 +1,297 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/AzureInstanceMetadata",
+    "definitions": {
+        "AzureInstanceMetadata": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "attributesByOffer": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "$ref": "#/definitions/AttributesByOffer"
+                    }
+                },
+                "detailsLookup": {
+                    "$ref": "#/definitions/DetailsLookup"
+                },
+                "skus": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "$ref": "#/definitions/Skus"
+                    }
+                }
+            },
+            "required": [
+                "attributesByOffer",
+                "detailsLookup",
+                "skus"
+            ],
+            "title": "AzureInstanceMetadata"
+        },
+        "AttributesByOffer": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "series": {
+                    "type": "string"
+                },
+                "nameLocKey": {
+                    "type": "string"
+                },
+                "instanceName": {
+                    "type": "string"
+                },
+                "cores": {
+                    "type": "integer"
+                },
+                "category": {
+                    "$ref": "#/definitions/Category"
+                },
+                "ram": {
+                    "type": "number"
+                },
+                "tier": {
+                    "$ref": "#/definitions/Tier"
+                },
+                "hasPayGo": {
+                    "type": "boolean"
+                },
+                "isInPreview": {
+                    "type": "boolean"
+                },
+                "diskSize": {
+                    "type": "integer"
+                },
+                "type": {
+                    "$ref": "#/definitions/Type"
+                },
+                "hasSpot": {
+                    "type": "boolean"
+                },
+                "isVcpu": {
+                    "type": "boolean"
+                },
+                "isConstrainedCore": {
+                    "type": "boolean"
+                },
+                "isBaseVm": {
+                    "type": "boolean"
+                },
+                "activeCores": {
+                    "type": "integer"
+                },
+                "productId": {
+                    "type": "string"
+                },
+                "nvMeDisk": {
+                    "type": "string"
+                },
+                "gpu": {
+                    "type": "string"
+                },
+                "fpga": {
+                    "type": "string"
+                },
+                "pmem": {
+                    "type": "integer"
+                }
+            },
+            "required": [
+                "category",
+                "cores",
+                "hasPayGo",
+                "hasSpot",
+                "instanceName",
+                "isBaseVm",
+                "isConstrainedCore",
+                "isInPreview",
+                "isVcpu",
+                "nameLocKey",
+                "ram",
+                "series",
+                "tier",
+                "type"
+            ],
+            "title": "AttributesByOffer"
+        },
+        "DetailsLookup": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "generalpurpose": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "$ref": "#/definitions/Computeoptimized"
+                    }
+                },
+                "computeoptimized": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "$ref": "#/definitions/Computeoptimized"
+                    }
+                },
+                "memoryoptimized": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "$ref": "#/definitions/Computeoptimized"
+                    }
+                },
+                "storageoptimized": {
+                    "$ref": "#/definitions/Storageoptimized"
+                },
+                "gpu": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "$ref": "#/definitions/Computeoptimized"
+                    }
+                },
+                "highperformancecompute": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "$ref": "#/definitions/Computeoptimized"
+                    }
+                }
+            },
+            "required": [
+                "computeoptimized",
+                "generalpurpose",
+                "gpu",
+                "highperformancecompute",
+                "memoryoptimized",
+                "storageoptimized"
+            ],
+            "title": "DetailsLookup"
+        },
+        "Computeoptimized": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "filterKey": {
+                    "type": "string"
+                },
+                "header": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "instances": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "description",
+                "filterKey",
+                "header",
+                "instances"
+            ],
+            "title": "Computeoptimized"
+        },
+        "Storageoptimized": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "lasv3": {
+                    "$ref": "#/definitions/Computeoptimized"
+                },
+                "lsv2": {
+                    "$ref": "#/definitions/Computeoptimized"
+                },
+                "lsv3": {
+                    "$ref": "#/definitions/Computeoptimized"
+                },
+                "ls": {
+                    "$ref": "#/definitions/Computeoptimized"
+                }
+            },
+            "required": [
+                "lasv3",
+                "ls",
+                "lsv2",
+                "lsv3"
+            ],
+            "title": "Storageoptimized"
+        },
+        "Skus": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "payg": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "one-year": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "three-year": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "sv-one-year": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "sv-three-year": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "spot": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "five-year": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [],
+            "title": "Skus"
+        },
+        "Category": {
+            "type": "string",
+            "enum": [
+                "generalpurpose",
+                "memoryoptimized",
+                "computeoptimized",
+                "highperformancecompute",
+                "storageoptimized",
+                "gpu"
+            ],
+            "title": "Category"
+        },
+        "Tier": {
+            "type": "string",
+            "enum": [
+                "standard"
+            ],
+            "title": "Tier"
+        },
+        "Type": {
+            "type": "string",
+            "enum": [
+                "linux",
+                "saphana"
+            ],
+            "title": "Type"
+        }
+    }
+}

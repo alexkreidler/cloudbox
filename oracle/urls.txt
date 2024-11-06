@@ -1,0 +1,12 @@
+https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/
+
+Powers this view:
+https://www.oracle.com/cloud/price-list/
+
+https://docs.oracle.com/en-us/iaas/Content/Compute/References/computeshapes.htm
+
+https://docs.oracle.com/en-us/iaas/api/#/en/iaas/20160918/Shape/ListShapes
+https://docs.oracle.com/en-us/iaas/api/#/en/iaas/20160918/DedicatedVmHostInstanceShapeSummary/ListDedicatedVmHostInstanceShapes
+
+https://iaas.us-ashburn-1.oraclecloud.com/20160918/shapes
+needs authentication

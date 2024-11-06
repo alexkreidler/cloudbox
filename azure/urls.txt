@@ -1,0 +1,6 @@
+Metadata: 
+https://azure.microsoft.com/api/v3/pricing/virtual-machines/page/details/linux/?culture=en-us&showLowPriorityOffers=false
+
+Prices
+
+https://azure.microsoft.com/api/v3/pricing/virtual-machines/page/linux/us-east/?showLowPriorityOffers=false

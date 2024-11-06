@@ -1,0 +1,10 @@
+Source:
+https://aws.amazon.com/ec2/pricing/on-demand/
+
+Metadata: locations + operating systems
+https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/metadata.json
+https://b0.p.awsstatic.com/locations/1.0/aws/current/locations.json
+
+Prices:
+https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(Ohio)/Linux/index.json
+https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json

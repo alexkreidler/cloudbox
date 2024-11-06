@@ -1,0 +1,4 @@
+https://slugs.do-api.dev/api/sizes
+https://docs.digitalocean.com/reference/api/api-reference/#tag/Sizes
+
+https://slugs.do-api.dev/

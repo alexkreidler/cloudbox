@@ -1,0 +1,3 @@
+https://api.linode.com/v4/linode/types
+
+https://techdocs.akamai.com/linode-api/reference/get-linode-types

@@ -1,0 +1,7 @@
+https://www.gstatic.com/cloud-site-ux/pricing/data/gcp-compute.json
+
+Has SKUs and prices, no names/machine type stats
+
+Would have to scrape here:
+https://cloud.google.com/compute/all-pricing
+unclear how could switch regions

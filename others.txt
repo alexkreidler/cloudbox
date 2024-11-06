@@ -1,0 +1,12 @@
+https://eu.api.ovh.com/v1/order/catalog/public/baremetalServers?ovhSubsidiary=FR
+
+https://eu.api.ovh.com/1.0/order/catalog/formatted/cloud?ovhSubsidiary=FR
+
+
+https://eu.api.ovh.com/1.0/order/catalog/public/eco?ovhSubsidiary=FR
+
+https://github.com/baaastijn/ovh_pricelist/blob/fad881bd835a6ec0b0e5745af1086753b3fef92f/functions.php#L24
+https://github.com/search?q=repo%3Atdr2d%2Fovh_pricelist%20api&type=code
+https://eu.api.ovh.com/console/
+https://eu.api.ovh.com/v1/dedicated/server/availabilities?country=fr - availabilities, no prices
+

@@ -1,0 +1,3 @@
+https://api.vultr.com/v2/plans
+
+https://www.vultr.com/api/#tag/plans

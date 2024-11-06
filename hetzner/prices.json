@@ -1,0 +1,767 @@
+[
+  {
+    "name": "CX22",
+    "vcpu": 2,
+    "ram": "4 GB",
+    "storage": "40 GB",
+    "cpuType": "Intel",
+    "traffic": "20 TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0071,
+          "ipv6": 0.0061
+        },
+        "FI": {
+          "ipv4": 0.0071,
+          "ipv6": 0.0061
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 4.51,
+          "ipv6": 3.92
+        },
+        "FI": {
+          "ipv4": 4.51,
+          "ipv6": 3.92
+        }
+      }
+    }
+  },
+  {
+    "name": "CX32",
+    "vcpu": 4,
+    "ram": "8 GB",
+    "storage": "80 GB",
+    "cpuType": "Intel",
+    "traffic": "20 TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0134,
+          "ipv6": 0.0124
+        },
+        "FI": {
+          "ipv4": 0.0134,
+          "ipv6": 0.0124
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 8.09,
+          "ipv6": 7.5
+        },
+        "FI": {
+          "ipv4": 8.09,
+          "ipv6": 7.5
+        }
+      }
+    }
+  },
+  {
+    "name": "CX42",
+    "vcpu": 8,
+    "ram": "16 GB",
+    "storage": "160 GB",
+    "cpuType": "Intel",
+    "traffic": "20 TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0325,
+          "ipv6": 0.0315
+        },
+        "FI": {
+          "ipv4": 0.0325,
+          "ipv6": 0.0315
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 19.52,
+          "ipv6": 18.92
+        },
+        "FI": {
+          "ipv4": 19.52,
+          "ipv6": 18.92
+        }
+      }
+    }
+  },
+  {
+    "name": "CX52",
+    "vcpu": 16,
+    "ram": "32 GB",
+    "storage": "320 GB",
+    "cpuType": "Intel",
+    "traffic": "20 TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0643,
+          "ipv6": 0.0633
+        },
+        "FI": {
+          "ipv4": 0.0643,
+          "ipv6": 0.0633
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 38.56,
+          "ipv6": 37.96
+        },
+        "FI": {
+          "ipv4": 38.56,
+          "ipv6": 37.96
+        }
+      }
+    }
+  },
+  {
+    "name": "CPX11",
+    "vcpu": 2,
+    "ram": "2 GB",
+    "storage": "40 GB",
+    "cpuType": "Standard",
+    "traffic": "1TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0084,
+          "ipv6": 0.0074
+        },
+        "US": {
+          "ipv4": 0.0084,
+          "ipv6": 0.0074
+        },
+        "FI": {
+          "ipv4": 0.0084,
+          "ipv6": 0.0074
+        },
+        "SG": {
+          "ipv4": 0.0151,
+          "ipv6": 0.0141
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 5.18,
+          "ipv6": 4.59
+        },
+        "US": {
+          "ipv4": 5.18,
+          "ipv6": 4.59
+        },
+        "FI": {
+          "ipv4": 5.18,
+          "ipv6": 4.59
+        },
+        "SG": {
+          "ipv4": 9.4,
+          "ipv6": 8.81
+        }
+      }
+    }
+  },
+  {
+    "name": "CPX21",
+    "vcpu": 3,
+    "ram": "4 GB",
+    "storage": "80 GB",
+    "cpuType": "Standard",
+    "traffic": "2TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0143,
+          "ipv6": 0.0133
+        },
+        "US": {
+          "ipv4": 0.0143,
+          "ipv6": 0.0133
+        },
+        "FI": {
+          "ipv4": 0.0143,
+          "ipv6": 0.0133
+        },
+        "SG": {
+          "ipv4": 0.0278,
+          "ipv6": 0.0268
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 8.98,
+          "ipv6": 8.39
+        },
+        "US": {
+          "ipv4": 8.98,
+          "ipv6": 8.39
+        },
+        "FI": {
+          "ipv4": 8.98,
+          "ipv6": 8.39
+        },
+        "SG": {
+          "ipv4": 17.37,
+          "ipv6": 16.78
+        }
+      }
+    }
+  },
+  {
+    "name": "CPX31",
+    "vcpu": 4,
+    "ram": "8 GB",
+    "storage": "160 GB",
+    "cpuType": "Standard",
+    "traffic": "3TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0261,
+          "ipv6": 0.0251
+        },
+        "US": {
+          "ipv4": 0.0261,
+          "ipv6": 0.0251
+        },
+        "FI": {
+          "ipv4": 0.0261,
+          "ipv6": 0.0251
+        },
+        "SG": {
+          "ipv4": 0.0482,
+          "ipv6": 0.0472
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 16.18,
+          "ipv6": 15.59
+        },
+        "US": {
+          "ipv4": 16.18,
+          "ipv6": 15.59
+        },
+        "FI": {
+          "ipv4": 16.18,
+          "ipv6": 15.59
+        },
+        "SG": {
+          "ipv4": 30.11,
+          "ipv6": 29.51
+        }
+      }
+    }
+  },
+  {
+    "name": "CPX41",
+    "vcpu": 8,
+    "ram": "16 GB",
+    "storage": "240 GB",
+    "cpuType": "Standard",
+    "traffic": "4TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0496,
+          "ipv6": 0.0486
+        },
+        "US": {
+          "ipv4": 0.0496,
+          "ipv6": 0.0486
+        },
+        "FI": {
+          "ipv4": 0.0496,
+          "ipv6": 0.0486
+        },
+        "SG": {
+          "ipv4": 0.0822,
+          "ipv6": 0.0812
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 29.99,
+          "ipv6": 29.4
+        },
+        "US": {
+          "ipv4": 29.99,
+          "ipv6": 29.4
+        },
+        "FI": {
+          "ipv4": 29.99,
+          "ipv6": 29.4
+        },
+        "SG": {
+          "ipv4": 51.29,
+          "ipv6": 50.69
+        }
+      }
+    }
+  },
+  {
+    "name": "CPX51",
+    "vcpu": 16,
+    "ram": "32 GB",
+    "storage": "360 GB",
+    "cpuType": "Standard",
+    "traffic": "5 TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.1047,
+          "ipv6": 0.1037
+        },
+        "US": {
+          "ipv4": 0.1047,
+          "ipv6": 0.1037
+        },
+        "FI": {
+          "ipv4": 0.1047,
+          "ipv6": 0.1037
+        },
+        "SG": {
+          "ipv4": 0.1476,
+          "ipv6": 0.1466
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 65.33,
+          "ipv6": 64.74
+        },
+        "US": {
+          "ipv4": 65.33,
+          "ipv6": 64.74
+        },
+        "FI": {
+          "ipv4": 65.33,
+          "ipv6": 64.74
+        },
+        "SG": {
+          "ipv4": 92.11,
+          "ipv6": 91.51
+        }
+      }
+    }
+  },
+  {
+    "name": "CAX11",
+    "vcpu": 2,
+    "ram": "4 GB",
+    "storage": "40 GB",
+    "cpuType": "Ampere",
+    "traffic": "20 TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.007,
+          "ipv6": 0.006
+        },
+        "FI": {
+          "ipv4": 0.007,
+          "ipv6": 0.006
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 4.51,
+          "ipv6": 3.92
+        },
+        "FI": {
+          "ipv4": 4.51,
+          "ipv6": 3.92
+        }
+      }
+    }
+  },
+  {
+    "name": "CAX21",
+    "vcpu": 4,
+    "ram": "8 GB",
+    "storage": "80 GB",
+    "cpuType": "Ampere",
+    "traffic": "20 TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.012,
+          "ipv6": 0.011
+        },
+        "FI": {
+          "ipv4": 0.012,
+          "ipv6": 0.011
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 7.72,
+          "ipv6": 7.13
+        },
+        "FI": {
+          "ipv4": 7.72,
+          "ipv6": 7.13
+        }
+      }
+    }
+  },
+  {
+    "name": "CAX31",
+    "vcpu": 8,
+    "ram": "16 GB",
+    "storage": "160 GB",
+    "cpuType": "Ampere",
+    "traffic": "20 TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.024,
+          "ipv6": 0.023
+        },
+        "FI": {
+          "ipv4": 0.024,
+          "ipv6": 0.023
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 14.86,
+          "ipv6": 14.27
+        },
+        "FI": {
+          "ipv4": 14.86,
+          "ipv6": 14.27
+        }
+      }
+    }
+  },
+  {
+    "name": "CAX41",
+    "vcpu": 16,
+    "ram": "32 GB",
+    "storage": "320 GB",
+    "cpuType": "Ampere",
+    "traffic": "20 TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.047,
+          "ipv6": 0.046
+        },
+        "FI": {
+          "ipv4": 0.047,
+          "ipv6": 0.046
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 29.14,
+          "ipv6": 28.55
+        },
+        "FI": {
+          "ipv4": 29.14,
+          "ipv6": 28.55
+        }
+      }
+    }
+  },
+  {
+    "name": "CCX13",
+    "vcpu": 2,
+    "ram": "8 GB",
+    "storage": "80 GB",
+    "cpuType": "Dedicated",
+    "traffic": "1TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0238,
+          "ipv6": 0.0228
+        },
+        "US": {
+          "ipv4": 0.0238,
+          "ipv6": 0.0228
+        },
+        "FI": {
+          "ipv4": 0.0238,
+          "ipv6": 0.0228
+        },
+        "SG": {
+          "ipv4": 0.0411,
+          "ipv6": 0.0401
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 14.86,
+          "ipv6": 14.27
+        },
+        "US": {
+          "ipv4": 14.86,
+          "ipv6": 14.27
+        },
+        "FI": {
+          "ipv4": 14.86,
+          "ipv6": 14.27
+        },
+        "SG": {
+          "ipv4": 25.59,
+          "ipv6": 24.99
+        }
+      }
+    }
+  },
+  {
+    "name": "CCX23",
+    "vcpu": 4,
+    "ram": "16 GB",
+    "storage": "160 GB",
+    "cpuType": "Dedicated",
+    "traffic": "2TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0466,
+          "ipv6": 0.0456
+        },
+        "US": {
+          "ipv4": 0.0466,
+          "ipv6": 0.0456
+        },
+        "FI": {
+          "ipv4": 0.0466,
+          "ipv6": 0.0456
+        },
+        "SG": {
+          "ipv4": 0.076,
+          "ipv6": 0.075
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 29.14,
+          "ipv6": 28.55
+        },
+        "US": {
+          "ipv4": 29.14,
+          "ipv6": 28.55
+        },
+        "FI": {
+          "ipv4": 29.14,
+          "ipv6": 28.55
+        },
+        "SG": {
+          "ipv4": 47.48,
+          "ipv6": 46.89
+        }
+      }
+    }
+  },
+  {
+    "name": "CCX33",
+    "vcpu": 8,
+    "ram": "32 GB",
+    "storage": "240 GB",
+    "cpuType": "Dedicated",
+    "traffic": "3TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.0925,
+          "ipv6": 0.0915
+        },
+        "US": {
+          "ipv4": 0.0925,
+          "ipv6": 0.0915
+        },
+        "FI": {
+          "ipv4": 0.0925,
+          "ipv6": 0.0915
+        },
+        "SG": {
+          "ipv4": 0.1428,
+          "ipv6": 0.1418
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 57.7,
+          "ipv6": 57.11
+        },
+        "US": {
+          "ipv4": 57.7,
+          "ipv6": 57.11
+        },
+        "FI": {
+          "ipv4": 57.7,
+          "ipv6": 57.11
+        },
+        "SG": {
+          "ipv4": 89.13,
+          "ipv6": 88.54
+        }
+      }
+    }
+  },
+  {
+    "name": "CCX43",
+    "vcpu": 16,
+    "ram": "64 GB",
+    "storage": "360 GB",
+    "cpuType": "Dedicated",
+    "traffic": "4TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.184,
+          "ipv6": 0.183
+        },
+        "US": {
+          "ipv4": 0.184,
+          "ipv6": 0.183
+        },
+        "FI": {
+          "ipv4": 0.184,
+          "ipv6": 0.183
+        },
+        "SG": {
+          "ipv4": 0.2623,
+          "ipv6": 0.2613
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 114.82,
+          "ipv6": 114.23
+        },
+        "US": {
+          "ipv4": 114.82,
+          "ipv6": 114.23
+        },
+        "FI": {
+          "ipv4": 114.82,
+          "ipv6": 114.23
+        },
+        "SG": {
+          "ipv4": 163.63,
+          "ipv6": 163.03
+        }
+      }
+    }
+  },
+  {
+    "name": "CCX53",
+    "vcpu": 32,
+    "ram": "128 GB",
+    "storage": "600 GB",
+    "cpuType": "Dedicated",
+    "traffic": "6TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.3671,
+          "ipv6": 0.3661
+        },
+        "US": {
+          "ipv4": 0.3671,
+          "ipv6": 0.3661
+        },
+        "FI": {
+          "ipv4": 0.3671,
+          "ipv6": 0.3661
+        },
+        "SG": {
+          "ipv4": 0.5617,
+          "ipv6": 0.5607
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 229.06,
+          "ipv6": 228.47
+        },
+        "US": {
+          "ipv4": 229.06,
+          "ipv6": 228.47
+        },
+        "FI": {
+          "ipv4": 229.06,
+          "ipv6": 228.47
+        },
+        "SG": {
+          "ipv4": 350.46,
+          "ipv6": 349.86
+        }
+      }
+    }
+  },
+  {
+    "name": "CCX63",
+    "vcpu": 48,
+    "ram": "192 GB",
+    "storage": "960 GB",
+    "cpuType": "Dedicated",
+    "traffic": "8TB",
+    "hasIPv4": true,
+    "pricing": {
+      "hourly": {
+        "DE": {
+          "ipv4": 0.5501,
+          "ipv6": 0.5491
+        },
+        "US": {
+          "ipv4": 0.5501,
+          "ipv6": 0.5491
+        },
+        "FI": {
+          "ipv4": 0.5501,
+          "ipv6": 0.5491
+        },
+        "SG": {
+          "ipv4": 0.9201,
+          "ipv6": 0.9191
+        }
+      },
+      "monthly": {
+        "DE": {
+          "ipv4": 343.3,
+          "ipv6": 342.71
+        },
+        "US": {
+          "ipv4": 343.3,
+          "ipv6": 342.71
+        },
+        "FI": {
+          "ipv4": 343.3,
+          "ipv6": 342.71
+        },
+        "SG": {
+          "ipv4": 574.18,
+          "ipv6": 573.58
+        }
+      }
+    }
+  }
+]
