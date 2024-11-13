@@ -1,0 +1,1147 @@
+id,name,ram,disk,bandwidth,price,driver_name
+a1.2xlarge,a1.2xlarge,16384,0,10.0,0.0,Amazon EC2
+a1.4xlarge,a1.4xlarge,32768,0,10.0,0.408,Amazon EC2
+a1.large,a1.large,4096,0,10.0,0.051,Amazon EC2
+a1.medium,a1.medium,2048,0,10.0,0.0,Amazon EC2
+a1.xlarge,a1.xlarge,8192,0,10.0,0.102,Amazon EC2
+c1.medium,c1.medium,1740,350,,0.13,Amazon EC2
+c1.xlarge,c1.xlarge,7168,1680,,0.52,Amazon EC2
+c3.2xlarge,c3.2xlarge,15360,160,,0.42,Amazon EC2
+c3.4xlarge,c3.4xlarge,30720,320,,0.0,Amazon EC2
+c3.8xlarge,c3.8xlarge,61440,640,10.0,0.0,Amazon EC2
+c3.large,c3.large,3840,32,,0.116,Amazon EC2
+c3.xlarge,c3.xlarge,7680,80,,0.21,Amazon EC2
+c4.2xlarge,c4.2xlarge,15360,0,,0.398,Amazon EC2
+c4.4xlarge,c4.4xlarge,30720,0,,0.796,Amazon EC2
+c4.8xlarge,c4.8xlarge,61440,0,10.0,0.0,Amazon EC2
+c4.large,c4.large,3840,0,,0.11,Amazon EC2
+c4.xlarge,c4.xlarge,7680,0,,0.199,Amazon EC2
+c5.12xlarge,c5.12xlarge,98304,0,12.0,2.162,Amazon EC2
+c5.18xlarge,c5.18xlarge,147456,0,25.0,3.06,Amazon EC2
+c5.24xlarge,c5.24xlarge,196608,0,25.0,4.08,Amazon EC2
+c5.2xlarge,c5.2xlarge,16384,0,10.0,0.34,Amazon EC2
+c5.4xlarge,c5.4xlarge,32768,0,10.0,0.68,Amazon EC2
+c5.9xlarge,c5.9xlarge,73728,0,10.0,0.0,Amazon EC2
+c5.large,c5.large,4096,0,10.0,0.0,Amazon EC2
+c5.xlarge,c5.xlarge,8192,0,10.0,0.17,Amazon EC2
+c5a.12xlarge,c5a.12xlarge,98304,0,12.0,1.848,Amazon EC2
+c5a.16xlarge,c5a.16xlarge,131072,0,20.0,2.464,Amazon EC2
+c5a.24xlarge,c5a.24xlarge,196608,0,20.0,3.696,Amazon EC2
+c5a.2xlarge,c5a.2xlarge,16384,0,10.0,0.308,Amazon EC2
+c5a.4xlarge,c5a.4xlarge,32768,0,10.0,0.616,Amazon EC2
+c5a.8xlarge,c5a.8xlarge,65536,0,10.0,1.232,Amazon EC2
+c5a.large,c5a.large,4096,0,10.0,0.077,Amazon EC2
+c5a.xlarge,c5a.xlarge,8192,0,10.0,0.154,Amazon EC2
+c5ad.12xlarge,c5ad.12xlarge,98304,1800,12.0,2.064,Amazon EC2
+c5ad.16xlarge,c5ad.16xlarge,131072,2400,20.0,2.752,Amazon EC2
+c5ad.24xlarge,c5ad.24xlarge,196608,3800,20.0,4.128,Amazon EC2
+c5ad.2xlarge,c5ad.2xlarge,16384,300,10.0,0.344,Amazon EC2
+c5ad.4xlarge,c5ad.4xlarge,32768,600,10.0,0.688,Amazon EC2
+c5ad.8xlarge,c5ad.8xlarge,65536,1200,10.0,1.376,Amazon EC2
+c5ad.large,c5ad.large,4096,75,10.0,0.086,Amazon EC2
+c5ad.xlarge,c5ad.xlarge,8192,150,10.0,0.172,Amazon EC2
+c5d.12xlarge,c5d.12xlarge,98304,1800,12.0,2.304,Amazon EC2
+c5d.18xlarge,c5d.18xlarge,147456,1800,25.0,3.456,Amazon EC2
+c5d.24xlarge,c5d.24xlarge,196608,3600,25.0,4.608,Amazon EC2
+c5d.2xlarge,c5d.2xlarge,16384,200,10.0,0.0,Amazon EC2
+c5d.4xlarge,c5d.4xlarge,32768,400,10.0,0.0,Amazon EC2
+c5d.9xlarge,c5d.9xlarge,73728,900,10.0,1.832,Amazon EC2
+c5d.large,c5d.large,4096,50,10.0,0.0,Amazon EC2
+c5d.xlarge,c5d.xlarge,8192,100,10.0,0.0,Amazon EC2
+c5n.18xlarge,c5n.18xlarge,196608,0,100.0,0.0,Amazon EC2
+c5n.2xlarge,c5n.2xlarge,21504,0,25.0,0.0,Amazon EC2
+c5n.4xlarge,c5n.4xlarge,43008,0,25.0,0.864,Amazon EC2
+c5n.9xlarge,c5n.9xlarge,98304,0,50.0,1.944,Amazon EC2
+c5n.large,c5n.large,5376,0,25.0,0.108,Amazon EC2
+c5n.xlarge,c5n.xlarge,10752,0,25.0,0.216,Amazon EC2
+c6a.12xlarge,c6a.12xlarge,98304,0,18750.0,0.0,Amazon EC2
+c6a.16xlarge,c6a.16xlarge,131072,0,25000.0,2.6928,Amazon EC2
+c6a.24xlarge,c6a.24xlarge,196608,0,37500.0,0.0,Amazon EC2
+c6a.2xlarge,c6a.2xlarge,16384,0,12500.0,0.3366,Amazon EC2
+c6a.32xlarge,c6a.32xlarge,262144,0,50000.0,0.0,Amazon EC2
+c6a.48xlarge,c6a.48xlarge,393216,0,50000.0,7.344,Amazon EC2
+c6a.4xlarge,c6a.4xlarge,32768,0,12500.0,0.612,Amazon EC2
+c6a.8xlarge,c6a.8xlarge,65536,0,12500.0,1.224,Amazon EC2
+c6a.large,c6a.large,4096,0,12500.0,0.0765,Amazon EC2
+c6a.xlarge,c6a.xlarge,8192,0,12500.0,0.1683,Amazon EC2
+c6g.12xlarge,c6g.12xlarge,98304,0,20.0,0.0,Amazon EC2
+c6g.16xlarge,c6g.16xlarge,131072,0,25.0,2.176,Amazon EC2
+c6g.2xlarge,c6g.2xlarge,16384,0,10.0,0.0,Amazon EC2
+c6g.4xlarge,c6g.4xlarge,32768,0,10.0,0.0,Amazon EC2
+c6g.8xlarge,c6g.8xlarge,65536,0,12.0,1.1533,Amazon EC2
+c6g.large,c6g.large,4096,0,10.0,0.068,Amazon EC2
+c6g.medium,c6g.medium,2048,0,10.0,0.0,Amazon EC2
+c6g.xlarge,c6g.xlarge,8192,0,10.0,0.1442,Amazon EC2
+c6gd.12xlarge,c6gd.12xlarge,98304,2850,20.0,0.0,Amazon EC2
+c6gd.16xlarge,c6gd.16xlarge,131072,3800,25.0,2.6051,Amazon EC2
+c6gd.2xlarge,c6gd.2xlarge,16384,475,10.0,0.3072,Amazon EC2
+c6gd.4xlarge,c6gd.4xlarge,32768,950,10.0,0.0,Amazon EC2
+c6gd.8xlarge,c6gd.8xlarge,65536,1900,12.0,1.3025,Amazon EC2
+c6gd.large,c6gd.large,4096,118,10.0,0.0768,Amazon EC2
+c6gd.medium,c6gd.medium,2048,59,10.0,0.0384,Amazon EC2
+c6gd.xlarge,c6gd.xlarge,8192,237,10.0,0.1536,Amazon EC2
+c6gn.12xlarge,c6gn.12xlarge,98304,0,75.0,2.28096,Amazon EC2
+c6gn.16xlarge,c6gn.16xlarge,131072,0,100.0,0.0,Amazon EC2
+c6gn.2xlarge,c6gn.2xlarge,16384,0,25.0,0.3456,Amazon EC2
+c6gn.4xlarge,c6gn.4xlarge,32768,0,25.0,0.76032,Amazon EC2
+c6gn.8xlarge,c6gn.8xlarge,65536,0,50.0,1.3824,Amazon EC2
+c6gn.large,c6gn.large,4096,0,25.0,0.09504,Amazon EC2
+c6gn.medium,c6gn.medium,2048,0,25.0,0.04752,Amazon EC2
+c6gn.xlarge,c6gn.xlarge,8192,0,25.0,0.19008,Amazon EC2
+c6i.12xlarge,c6i.12xlarge,98304,0,18750.0,0.0,Amazon EC2
+c6i.16xlarge,c6i.16xlarge,131072,0,25000.0,0.0,Amazon EC2
+c6i.24xlarge,c6i.24xlarge,196608,0,37500.0,4.488,Amazon EC2
+c6i.2xlarge,c6i.2xlarge,16384,0,12500.0,0.34,Amazon EC2
+c6i.32xlarge,c6i.32xlarge,262144,0,50000.0,5.44,Amazon EC2
+c6i.4xlarge,c6i.4xlarge,32768,0,12500.0,0.68,Amazon EC2
+c6i.8xlarge,c6i.8xlarge,65536,0,12500.0,1.496,Amazon EC2
+c6i.large,c6i.large,4096,0,12500.0,0.0935,Amazon EC2
+c6i.xlarge,c6i.xlarge,8192,0,12500.0,0.17,Amazon EC2
+c6id.12xlarge,c6id.12xlarge,98304,2850,18750.0,2.4192,Amazon EC2
+c6id.16xlarge,c6id.16xlarge,131072,3800,25000.0,0.0,Amazon EC2
+c6id.24xlarge,c6id.24xlarge,196608,5700,37500.0,4.8384,Amazon EC2
+c6id.2xlarge,c6id.2xlarge,16384,474,12500.0,0.44352,Amazon EC2
+c6id.32xlarge,c6id.32xlarge,262144,7600,50000.0,6.4512,Amazon EC2
+c6id.4xlarge,c6id.4xlarge,32768,950,12500.0,0.88704,Amazon EC2
+c6id.8xlarge,c6id.8xlarge,65536,1900,12500.0,1.77408,Amazon EC2
+c6id.large,c6id.large,4096,118,12500.0,0.11088,Amazon EC2
+c6id.xlarge,c6id.xlarge,8192,237,12500.0,0.0,Amazon EC2
+c6in.12xlarge,c6in.12xlarge,98304,0,75000.0,2.7216,Amazon EC2
+c6in.16xlarge,c6in.16xlarge,131072,0,100000.0,3.99168,Amazon EC2
+c6in.24xlarge,c6in.24xlarge,196608,0,150000.0,0.0,Amazon EC2
+c6in.2xlarge,c6in.2xlarge,16384,0,40000.0,0.4536,Amazon EC2
+c6in.32xlarge,c6in.32xlarge,262144,0,200000.0,7.2576,Amazon EC2
+c6in.4xlarge,c6in.4xlarge,32768,0,50000.0,0.0,Amazon EC2
+c6in.8xlarge,c6in.8xlarge,65536,0,50000.0,1.8144,Amazon EC2
+c6in.large,c6in.large,4096,0,25000.0,0.0,Amazon EC2
+c6in.xlarge,c6in.xlarge,8192,0,30000.0,0.24948,Amazon EC2
+c7g.12xlarge,c7g.12xlarge,98304,0,22500.0,1.74,Amazon EC2
+c7g.16xlarge,c7g.16xlarge,131072,0,30.0,2.32,Amazon EC2
+c7g.2xlarge,c7g.2xlarge,16384,0,15.0,0.29,Amazon EC2
+c7g.4xlarge,c7g.4xlarge,32768,0,15.0,0.58,Amazon EC2
+c7g.8xlarge,c7g.8xlarge,65536,0,15.0,1.16,Amazon EC2
+c7g.large,c7g.large,4096,0,12500.0,0.0725,Amazon EC2
+c7g.medium,c7g.medium,2048,0,12500.0,0.0363,Amazon EC2
+c7g.xlarge,c7g.xlarge,8192,0,12500.0,0.145,Amazon EC2
+c7gd.12xlarge,c7gd.12xlarge,98304,2850,22500.0,0.0,Amazon EC2
+c7gd.16xlarge,c7gd.16xlarge,131072,3800,30.0,2.903,Amazon EC2
+c7gd.2xlarge,c7gd.2xlarge,16384,475,15.0,0.3629,Amazon EC2
+c7gd.4xlarge,c7gd.4xlarge,32768,950,15.0,0.0,Amazon EC2
+c7gd.8xlarge,c7gd.8xlarge,65536,1900,15.0,1.5386,Amazon EC2
+c7gd.large,c7gd.large,4096,118,12500.0,0.0962,Amazon EC2
+c7gd.medium,c7gd.medium,2048,59,12500.0,0.0481,Amazon EC2
+c7gd.xlarge,c7gd.xlarge,8192,237,12500.0,0.1923,Amazon EC2
+c7gn.12xlarge,c7gn.12xlarge,98304,0,150.0,3.1749,Amazon EC2
+c7gn.16xlarge,c7gn.16xlarge,131072,0,200.0,0.0,Amazon EC2
+c7gn.2xlarge,c7gn.2xlarge,16384,0,50.0,0.4992,Amazon EC2
+c7gn.4xlarge,c7gn.4xlarge,32768,0,50.0,0.0,Amazon EC2
+c7gn.8xlarge,c7gn.8xlarge,65536,0,100.0,2.1166,Amazon EC2
+c7gn.large,c7gn.large,4096,0,30.0,0.0,Amazon EC2
+c7gn.medium,c7gn.medium,2048,0,25.0,0.0661,Amazon EC2
+c7gn.xlarge,c7gn.xlarge,8192,0,40.0,0.0,Amazon EC2
+cc2.8xlarge,cc2.8xlarge,61952,3360,10.0,2.0,Amazon EC2
+cr1.8xlarge,cr1.8xlarge,249856,240,10.0,3.5,Amazon EC2
+d2.2xlarge,d2.2xlarge,62464,12000,,1.38,Amazon EC2
+d2.4xlarge,d2.4xlarge,124928,24000,,0.0,Amazon EC2
+d2.8xlarge,d2.8xlarge,249856,48000,10.0,5.52,Amazon EC2
+d2.xlarge,d2.xlarge,31232,6000,,0.759,Amazon EC2
+d3.2xlarge,d3.2xlarge,65536,12000,15.0,0.999,Amazon EC2
+d3.4xlarge,d3.4xlarge,131072,24000,15.0,1.998,Amazon EC2
+d3.8xlarge,d3.8xlarge,262144,48000,25.0,3.99552,Amazon EC2
+d3.xlarge,d3.xlarge,32768,6000,15.0,0.499,Amazon EC2
+d3en.12xlarge,d3en.12xlarge,196608,336000,75.0,6.30864,Amazon EC2
+d3en.2xlarge,d3en.2xlarge,32768,56000,25.0,1.051,Amazon EC2
+d3en.4xlarge,d3en.4xlarge,65536,112000,25.0,2.103,Amazon EC2
+d3en.6xlarge,d3en.6xlarge,98304,168000,40.0,3.154,Amazon EC2
+d3en.8xlarge,d3en.8xlarge,131072,224000,50.0,4.20576,Amazon EC2
+d3en.xlarge,d3en.xlarge,16384,28000,25.0,0.526,Amazon EC2
+dl1.24xlarge,dl1.24xlarge,786432,4000,400.0,0.0,Amazon EC2
+f1.16xlarge,f1.16xlarge,999424,3760,25.0,13.2,Amazon EC2
+f1.2xlarge,f1.2xlarge,124928,470,10.0,1.65,Amazon EC2
+f1.4xlarge,f1.4xlarge,249856,940,10.0,3.63,Amazon EC2
+g2.2xlarge,g2.2xlarge,15360,60,,0.0,Amazon EC2
+g2.8xlarge,g2.8xlarge,61440,240,,2.6,Amazon EC2
+g3.16xlarge,g3.16xlarge,499712,0,20.0,4.56,Amazon EC2
+g3.4xlarge,g3.4xlarge,124928,0,10.0,1.254,Amazon EC2
+g3.8xlarge,g3.8xlarge,249856,0,10.0,2.28,Amazon EC2
+g3s.xlarge,g3s.xlarge,31232,0,10.0,0.75,Amazon EC2
+g4ad.16xlarge,g4ad.16xlarge,262144,2400,25.0,3.468,Amazon EC2
+g4ad.2xlarge,g4ad.2xlarge,32768,300,10.0,0.54117,Amazon EC2
+g4ad.4xlarge,g4ad.4xlarge,65536,600,10.0,0.9537,Amazon EC2
+g4ad.8xlarge,g4ad.8xlarge,131072,1200,15.0,1.9074,Amazon EC2
+g4ad.xlarge,g4ad.xlarge,16384,150,10.0,0.37853,Amazon EC2
+g4dn.12xlarge,g4dn.12xlarge,196608,900,50.0,4.147,Amazon EC2
+g4dn.16xlarge,g4dn.16xlarge,262144,900,50.0,4.613,Amazon EC2
+g4dn.2xlarge,g4dn.2xlarge,32768,225,25.0,0.797,Amazon EC2
+g4dn.4xlarge,g4dn.4xlarge,65536,225,25.0,1.276,Amazon EC2
+g4dn.8xlarge,g4dn.8xlarge,131072,900,50.0,2.307,Amazon EC2
+g4dn.xlarge,g4dn.xlarge,16384,125,25.0,0.558,Amazon EC2
+g5.12xlarge,g5.12xlarge,196608,3800,40.0,0.0,Amazon EC2
+g5.16xlarge,g5.16xlarge,262144,1900,25.0,4.096,Amazon EC2
+g5.24xlarge,g5.24xlarge,393216,3800,50.0,0.0,Amazon EC2
+g5.2xlarge,g5.2xlarge,32768,450,10.0,1.212,Amazon EC2
+g5.48xlarge,g5.48xlarge,786432,7600,100.0,17.9168,Amazon EC2
+g5.4xlarge,g5.4xlarge,65536,600,25.0,0.0,Amazon EC2
+g5.8xlarge,g5.8xlarge,131072,900,25.0,2.6928,Amazon EC2
+g5.xlarge,g5.xlarge,16384,250,10.0,1.006,Amazon EC2
+g5g.16xlarge,g5g.16xlarge,131072,0,25.0,0.0,Amazon EC2
+g5g.2xlarge,g5g.2xlarge,16384,0,10.0,0.0,Amazon EC2
+g5g.4xlarge,g5g.4xlarge,32768,0,10.0,0.828,Amazon EC2
+g5g.8xlarge,g5g.8xlarge,65536,0,12.0,1.372,Amazon EC2
+g5g.xlarge,g5g.xlarge,8192,0,10.0,0.4452,Amazon EC2
+h1.16xlarge,h1.16xlarge,262144,16000,25.0,0.0,Amazon EC2
+h1.2xlarge,h1.2xlarge,32768,2000,10.0,0.0,Amazon EC2
+h1.4xlarge,h1.4xlarge,65536,4000,10.0,1.171,Amazon EC2
+h1.8xlarge,h1.8xlarge,131072,8000,10.0,2.342,Amazon EC2
+hpc7g.16xlarge,hpc7g.16xlarge,131072,0,200.0,1.6832,Amazon EC2
+hpc7g.4xlarge,hpc7g.4xlarge,131072,0,200.0,1.6832,Amazon EC2
+hpc7g.8xlarge,hpc7g.8xlarge,131072,0,200.0,1.6832,Amazon EC2
+hs1.8xlarge,hs1.8xlarge,119808,48000,10.0,4.6,Amazon EC2
+i2.2xlarge,i2.2xlarge,62464,1600,,1.876,Amazon EC2
+i2.4xlarge,i2.4xlarge,124928,3200,,3.41,Amazon EC2
+i2.8xlarge,i2.8xlarge,249856,6400,10.0,6.82,Amazon EC2
+i2.large,i2.large,15360,800,,0.468,Amazon EC2
+i2.xlarge,i2.xlarge,31232,800,,0.0,Amazon EC2
+i3.16xlarge,i3.16xlarge,499712,15200,20.0,4.992,Amazon EC2
+i3.2xlarge,i3.2xlarge,62464,1900,10.0,0.686,Amazon EC2
+i3.4xlarge,i3.4xlarge,124928,3800,10.0,0.0,Amazon EC2
+i3.8xlarge,i3.8xlarge,249856,7600,10.0,2.746,Amazon EC2
+i3.large,i3.large,15616,475,10.0,0.156,Amazon EC2
+i3.xlarge,i3.xlarge,31232,950,10.0,0.343,Amazon EC2
+i3en.12xlarge,i3en.12xlarge,393216,30000,50.0,5.776,Amazon EC2
+i3en.24xlarge,i3en.24xlarge,786432,60000,100.0,10.848,Amazon EC2
+i3en.2xlarge,i3en.2xlarge,65536,5000,25.0,0.0,Amazon EC2
+i3en.3xlarge,i3en.3xlarge,98304,7500,25.0,0.0,Amazon EC2
+i3en.6xlarge,i3en.6xlarge,196608,15000,25.0,2.888,Amazon EC2
+i3en.large,i3en.large,16384,1250,25.0,0.241,Amazon EC2
+i3en.xlarge,i3en.xlarge,32768,2500,25.0,0.0,Amazon EC2
+i4g.16xlarge,i4g.16xlarge,524288,15000,37500.0,4.94208,Amazon EC2
+i4g.2xlarge,i4g.2xlarge,65536,1875,12.0,0.61776,Amazon EC2
+i4g.4xlarge,i4g.4xlarge,131072,3750,25.0,1.23552,Amazon EC2
+i4g.8xlarge,i4g.8xlarge,262144,7500,18750.0,0.0,Amazon EC2
+i4g.large,i4g.large,16384,468,10.0,0.0,Amazon EC2
+i4g.xlarge,i4g.xlarge,32768,937,10.0,0.0,Amazon EC2
+i4i.16xlarge,i4i.16xlarge,524288,15000,35000.0,6.04,Amazon EC2
+i4i.2xlarge,i4i.2xlarge,65536,1875,12.0,0.0,Amazon EC2
+i4i.32xlarge,i4i.32xlarge,1048576,30000,75000.0,10.9824,Amazon EC2
+i4i.4xlarge,i4i.4xlarge,131072,3750,25.0,1.373,Amazon EC2
+i4i.8xlarge,i4i.8xlarge,262144,7500,18750.0,0.0,Amazon EC2
+i4i.large,i4i.large,16384,468,10.0,0.172,Amazon EC2
+i4i.xlarge,i4i.xlarge,32768,937,10.0,0.343,Amazon EC2
+im4gn.16xlarge,im4gn.16xlarge,262144,30000,100.0,5.82067,Amazon EC2
+im4gn.2xlarge,im4gn.2xlarge,32768,3750,25.0,0.72758,Amazon EC2
+im4gn.4xlarge,im4gn.4xlarge,65536,7500,25.0,1.45517,Amazon EC2
+im4gn.8xlarge,im4gn.8xlarge,131072,15000,50.0,2.91034,Amazon EC2
+im4gn.large,im4gn.large,8192,937,25.0,0.0,Amazon EC2
+im4gn.xlarge,im4gn.xlarge,16384,1875,25.0,0.40017,Amazon EC2
+inf1.24xlarge,inf1.24xlarge,196608,0,100.0,5.005,Amazon EC2
+inf1.2xlarge,inf1.2xlarge,16384,0,25.0,0.384,Amazon EC2
+inf1.6xlarge,inf1.6xlarge,49152,0,25.0,1.18,Amazon EC2
+inf1.xlarge,inf1.xlarge,8192,0,25.0,0.242,Amazon EC2
+inf2.24xlarge,inf2.24xlarge,393216,0,50.0,0.0,Amazon EC2
+inf2.48xlarge,inf2.48xlarge,786432,0,100.0,0.0,Amazon EC2
+inf2.8xlarge,inf2.8xlarge,131072,0,25.0,2.16465,Amazon EC2
+inf2.xlarge,inf2.xlarge,16384,0,15.0,0.0,Amazon EC2
+is4gen.2xlarge,is4gen.2xlarge,49152,7500,25.0,1.1526,Amazon EC2
+is4gen.4xlarge,is4gen.4xlarge,98304,15000,25.0,2.3052,Amazon EC2
+is4gen.8xlarge,is4gen.8xlarge,196608,30000,50.0,4.6104,Amazon EC2
+is4gen.large,is4gen.large,12288,1875,25.0,0.28815,Amazon EC2
+is4gen.medium,is4gen.medium,6144,937,25.0,0.14408,Amazon EC2
+is4gen.xlarge,is4gen.xlarge,24576,3750,25.0,0.5763,Amazon EC2
+m1.large,m1.large,7680,840,,0.175,Amazon EC2
+m1.medium,m1.medium,3840,410,,0.087,Amazon EC2
+m1.small,m1.small,1740,160,,0.044,Amazon EC2
+m1.xlarge,m1.xlarge,15360,1680,,0.35,Amazon EC2
+m2.2xlarge,m2.2xlarge,35020,850,,0.49,Amazon EC2
+m2.4xlarge,m2.4xlarge,70041,1680,,0.98,Amazon EC2
+m2.xlarge,m2.xlarge,17510,420,,0.245,Amazon EC2
+m3.2xlarge,m3.2xlarge,30720,160,,0.0,Amazon EC2
+m3.large,m3.large,7680,32,,0.0,Amazon EC2
+m3.medium,m3.medium,3840,4,,0.074,Amazon EC2
+m3.xlarge,m3.xlarge,15360,80,,0.266,Amazon EC2
+m4.10xlarge,m4.10xlarge,163840,0,10.0,2.0,Amazon EC2
+m4.16xlarge,m4.16xlarge,262144,0,20.0,3.2,Amazon EC2
+m4.2xlarge,m4.2xlarge,32768,0,,0.44,Amazon EC2
+m4.4xlarge,m4.4xlarge,65536,0,,0.0,Amazon EC2
+m4.large,m4.large,8192,0,,0.1,Amazon EC2
+m4.xlarge,m4.xlarge,16384,0,,0.2,Amazon EC2
+m5.12xlarge,m5.12xlarge,196608,0,10.0,2.444,Amazon EC2
+m5.16xlarge,m5.16xlarge,262144,0,20.0,3.259,Amazon EC2
+m5.24xlarge,m5.24xlarge,393216,0,25.0,4.608,Amazon EC2
+m5.2xlarge,m5.2xlarge,32768,0,10.0,0.384,Amazon EC2
+m5.4xlarge,m5.4xlarge,65536,0,10.0,0.815,Amazon EC2
+m5.8xlarge,m5.8xlarge,131072,0,10.0,0.0,Amazon EC2
+m5.large,m5.large,8192,0,10.0,0.102,Amazon EC2
+m5.xlarge,m5.xlarge,16384,0,10.0,0.0,Amazon EC2
+m5a.12xlarge,m5a.12xlarge,196608,0,10.0,2.064,Amazon EC2
+m5a.16xlarge,m5a.16xlarge,262144,0,12.0,2.752,Amazon EC2
+m5a.24xlarge,m5a.24xlarge,393216,0,20.0,4.128,Amazon EC2
+m5a.2xlarge,m5a.2xlarge,32768,0,10.0,0.344,Amazon EC2
+m5a.4xlarge,m5a.4xlarge,65536,0,10.0,0.688,Amazon EC2
+m5a.8xlarge,m5a.8xlarge,131072,0,10.0,1.376,Amazon EC2
+m5a.large,m5a.large,8192,0,10.0,0.086,Amazon EC2
+m5a.xlarge,m5a.xlarge,16384,0,10.0,0.172,Amazon EC2
+m5ad.12xlarge,m5ad.12xlarge,196608,1800,10.0,2.472,Amazon EC2
+m5ad.16xlarge,m5ad.16xlarge,262144,2400,12.0,3.296,Amazon EC2
+m5ad.24xlarge,m5ad.24xlarge,393216,3600,20.0,4.944,Amazon EC2
+m5ad.2xlarge,m5ad.2xlarge,32768,300,10.0,0.412,Amazon EC2
+m5ad.4xlarge,m5ad.4xlarge,65536,600,10.0,0.824,Amazon EC2
+m5ad.8xlarge,m5ad.8xlarge,131072,1200,10.0,1.648,Amazon EC2
+m5ad.large,m5ad.large,8192,75,10.0,0.103,Amazon EC2
+m5ad.xlarge,m5ad.xlarge,16384,150,10.0,0.206,Amazon EC2
+m5d.12xlarge,m5d.12xlarge,196608,1800,10.0,2.876,Amazon EC2
+m5d.16xlarge,m5d.16xlarge,262144,2400,20.0,3.616,Amazon EC2
+m5d.24xlarge,m5d.24xlarge,393216,3600,25.0,5.424,Amazon EC2
+m5d.2xlarge,m5d.2xlarge,32768,300,10.0,0.0,Amazon EC2
+m5d.4xlarge,m5d.4xlarge,65536,600,10.0,0.0,Amazon EC2
+m5d.8xlarge,m5d.8xlarge,131072,1200,10.0,1.808,Amazon EC2
+m5d.large,m5d.large,8192,75,10.0,0.12,Amazon EC2
+m5d.xlarge,m5d.xlarge,16384,150,10.0,0.226,Amazon EC2
+m5dn.12xlarge,m5dn.12xlarge,196608,1800,50.0,0.0,Amazon EC2
+m5dn.16xlarge,m5dn.16xlarge,262144,2400,75.0,0.0,Amazon EC2
+m5dn.24xlarge,m5dn.24xlarge,393216,3600,100.0,0.0,Amazon EC2
+m5dn.2xlarge,m5dn.2xlarge,32768,300,25.0,0.0,Amazon EC2
+m5dn.4xlarge,m5dn.4xlarge,65536,600,25.0,1.154,Amazon EC2
+m5dn.8xlarge,m5dn.8xlarge,131072,1200,25.0,2.308,Amazon EC2
+m5dn.large,m5dn.large,8192,75,25.0,0.0,Amazon EC2
+m5dn.xlarge,m5dn.xlarge,16384,150,25.0,0.0,Amazon EC2
+m5n.12xlarge,m5n.12xlarge,196608,0,50.0,0.0,Amazon EC2
+m5n.16xlarge,m5n.16xlarge,262144,0,75.0,4.038,Amazon EC2
+m5n.24xlarge,m5n.24xlarge,393216,0,100.0,5.712,Amazon EC2
+m5n.2xlarge,m5n.2xlarge,32768,0,25.0,0.0,Amazon EC2
+m5n.4xlarge,m5n.4xlarge,65536,0,25.0,0.0,Amazon EC2
+m5n.8xlarge,m5n.8xlarge,131072,0,25.0,2.019,Amazon EC2
+m5n.large,m5n.large,8192,0,25.0,0.119,Amazon EC2
+m5n.xlarge,m5n.xlarge,16384,0,25.0,0.0,Amazon EC2
+m5zn.12xlarge,m5zn.12xlarge,196608,0,100.0,4.3605,Amazon EC2
+m5zn.2xlarge,m5zn.2xlarge,32768,0,25.0,0.6607,Amazon EC2
+m5zn.3xlarge,m5zn.3xlarge,49152,0,25.0,0.0,Amazon EC2
+m5zn.6xlarge,m5zn.6xlarge,98304,0,50.0,2.1802,Amazon EC2
+m5zn.large,m5zn.large,8192,0,25.0,0.0,Amazon EC2
+m5zn.xlarge,m5zn.xlarge,16384,0,25.0,0.3634,Amazon EC2
+m6a.12xlarge,m6a.12xlarge,196608,0,18750.0,2.28096,Amazon EC2
+m6a.16xlarge,m6a.16xlarge,262144,0,25000.0,2.7648,Amazon EC2
+m6a.24xlarge,m6a.24xlarge,393216,0,37500.0,4.1472,Amazon EC2
+m6a.2xlarge,m6a.2xlarge,32768,0,12500.0,0.3456,Amazon EC2
+m6a.32xlarge,m6a.32xlarge,524288,0,50000.0,6.08256,Amazon EC2
+m6a.48xlarge,m6a.48xlarge,786432,0,50000.0,8.2944,Amazon EC2
+m6a.4xlarge,m6a.4xlarge,65536,0,12500.0,0.0,Amazon EC2
+m6a.8xlarge,m6a.8xlarge,131072,0,12500.0,1.52064,Amazon EC2
+m6a.large,m6a.large,8192,0,12500.0,0.0,Amazon EC2
+m6a.xlarge,m6a.xlarge,16384,0,12500.0,0.0,Amazon EC2
+m6g.12xlarge,m6g.12xlarge,196608,0,20.0,0.0,Amazon EC2
+m6g.16xlarge,m6g.16xlarge,262144,0,25.0,2.6112,Amazon EC2
+m6g.2xlarge,m6g.2xlarge,32768,0,10.0,0.0,Amazon EC2
+m6g.4xlarge,m6g.4xlarge,65536,0,10.0,0.6528,Amazon EC2
+m6g.8xlarge,m6g.8xlarge,131072,0,12.0,0.0,Amazon EC2
+m6g.large,m6g.large,8192,0,10.0,0.0816,Amazon EC2
+m6g.medium,m6g.medium,4096,0,10.0,0.0,Amazon EC2
+m6g.xlarge,m6g.xlarge,16384,0,10.0,0.0,Amazon EC2
+m6gd.12xlarge,m6gd.12xlarge,196608,2850,20.0,2.2998,Amazon EC2
+m6gd.16xlarge,m6gd.16xlarge,262144,3800,25.0,3.0664,Amazon EC2
+m6gd.2xlarge,m6gd.2xlarge,32768,475,10.0,0.3616,Amazon EC2
+m6gd.4xlarge,m6gd.4xlarge,65536,950,10.0,0.0,Amazon EC2
+m6gd.8xlarge,m6gd.8xlarge,131072,1900,12.0,0.0,Amazon EC2
+m6gd.large,m6gd.large,8192,118,10.0,0.0,Amazon EC2
+m6gd.medium,m6gd.medium,4096,59,10.0,0.0,Amazon EC2
+m6gd.xlarge,m6gd.xlarge,16384,237,10.0,0.0,Amazon EC2
+m6i.12xlarge,m6i.12xlarge,196608,0,18750.0,2.304,Amazon EC2
+m6i.16xlarge,m6i.16xlarge,262144,0,25000.0,3.072,Amazon EC2
+m6i.24xlarge,m6i.24xlarge,393216,0,37500.0,4.608,Amazon EC2
+m6i.2xlarge,m6i.2xlarge,32768,0,12500.0,0.4224,Amazon EC2
+m6i.32xlarge,m6i.32xlarge,524288,0,50000.0,6.7584,Amazon EC2
+m6i.4xlarge,m6i.4xlarge,65536,0,12500.0,0.0,Amazon EC2
+m6i.8xlarge,m6i.8xlarge,131072,0,12500.0,1.536,Amazon EC2
+m6i.large,m6i.large,8192,0,12500.0,0.0,Amazon EC2
+m6i.xlarge,m6i.xlarge,16384,0,12500.0,0.2112,Amazon EC2
+m6id.12xlarge,m6id.12xlarge,196608,2850,18750.0,3.13236,Amazon EC2
+m6id.16xlarge,m6id.16xlarge,262144,3800,25000.0,0.0,Amazon EC2
+m6id.24xlarge,m6id.24xlarge,393216,5700,37500.0,6.26472,Amazon EC2
+m6id.2xlarge,m6id.2xlarge,32768,474,12500.0,0.4746,Amazon EC2
+m6id.32xlarge,m6id.32xlarge,524288,7600,50000.0,7.5936,Amazon EC2
+m6id.4xlarge,m6id.4xlarge,65536,950,12500.0,1.04412,Amazon EC2
+m6id.8xlarge,m6id.8xlarge,131072,1900,12500.0,0.0,Amazon EC2
+m6id.large,m6id.large,8192,118,12500.0,0.0,Amazon EC2
+m6id.xlarge,m6id.xlarge,16384,237,12500.0,0.2373,Amazon EC2
+m6idn.12xlarge,m6idn.12xlarge,196608,2850,75000.0,3.81888,Amazon EC2
+m6idn.16xlarge,m6idn.16xlarge,262144,3800,100000.0,5.09184,Amazon EC2
+m6idn.24xlarge,m6idn.24xlarge,393216,5700,150000.0,8.40154,Amazon EC2
+m6idn.2xlarge,m6idn.2xlarge,32768,474,40000.0,0.63648,Amazon EC2
+m6idn.32xlarge,m6idn.32xlarge,524288,7600,200000.0,10.18368,Amazon EC2
+m6idn.4xlarge,m6idn.4xlarge,65536,950,50000.0,1.40026,Amazon EC2
+m6idn.8xlarge,m6idn.8xlarge,131072,1900,50000.0,0.0,Amazon EC2
+m6idn.large,m6idn.large,8192,118,25000.0,0.0,Amazon EC2
+m6idn.xlarge,m6idn.xlarge,16384,237,30000.0,0.31824,Amazon EC2
+m6in.12xlarge,m6in.12xlarge,196608,0,75000.0,0.0,Amazon EC2
+m6in.16xlarge,m6in.16xlarge,262144,0,100000.0,4.9009,Amazon EC2
+m6in.24xlarge,m6in.24xlarge,393216,0,150000.0,7.35134,Amazon EC2
+m6in.2xlarge,m6in.2xlarge,32768,0,40000.0,0.61261,Amazon EC2
+m6in.32xlarge,m6in.32xlarge,524288,0,200000.0,8.91072,Amazon EC2
+m6in.4xlarge,m6in.4xlarge,65536,0,50000.0,1.11384,Amazon EC2
+m6in.8xlarge,m6in.8xlarge,131072,0,50000.0,2.22768,Amazon EC2
+m6in.large,m6in.large,8192,0,25000.0,0.15315,Amazon EC2
+m6in.xlarge,m6in.xlarge,16384,0,30000.0,0.0,Amazon EC2
+m7g.12xlarge,m7g.12xlarge,196608,0,22500.0,1.9584,Amazon EC2
+m7g.16xlarge,m7g.16xlarge,262144,0,30.0,2.6112,Amazon EC2
+m7g.2xlarge,m7g.2xlarge,32768,0,15.0,0.3264,Amazon EC2
+m7g.4xlarge,m7g.4xlarge,65536,0,15.0,0.6528,Amazon EC2
+m7g.8xlarge,m7g.8xlarge,131072,0,15.0,1.3056,Amazon EC2
+m7g.large,m7g.large,8192,0,12500.0,0.0816,Amazon EC2
+m7g.medium,m7g.medium,4096,0,12500.0,0.0408,Amazon EC2
+m7g.xlarge,m7g.xlarge,16384,0,12500.0,0.1632,Amazon EC2
+m7gd.12xlarge,m7gd.12xlarge,196608,2850,22500.0,2.5628,Amazon EC2
+m7gd.16xlarge,m7gd.16xlarge,262144,3800,30.0,3.4171,Amazon EC2
+m7gd.2xlarge,m7gd.2xlarge,32768,475,15.0,0.4271,Amazon EC2
+m7gd.4xlarge,m7gd.4xlarge,65536,950,15.0,0.9055,Amazon EC2
+m7gd.8xlarge,m7gd.8xlarge,131072,1900,15.0,1.7086,Amazon EC2
+m7gd.large,m7gd.large,8192,118,12500.0,0.1132,Amazon EC2
+m7gd.medium,m7gd.medium,4096,59,12500.0,0.0,Amazon EC2
+m7gd.xlarge,m7gd.xlarge,16384,237,12500.0,0.2136,Amazon EC2
+m7i-flex.2xlarge,m7i-flex.2xlarge,32768,0,12500.0,0.38304,Amazon EC2
+m7i-flex.4xlarge,m7i-flex.4xlarge,65536,0,12500.0,0.76608,Amazon EC2
+m7i-flex.8xlarge,m7i-flex.8xlarge,131072,0,12500.0,1.53216,Amazon EC2
+m7i-flex.large,m7i-flex.large,8192,0,12500.0,0.09576,Amazon EC2
+m7i-flex.xlarge,m7i-flex.xlarge,16384,0,12500.0,0.19152,Amazon EC2
+m7i.12xlarge,m7i.12xlarge,196608,0,18750.0,2.4192,Amazon EC2
+m7i.16xlarge,m7i.16xlarge,262144,0,25000.0,3.54816,Amazon EC2
+m7i.24xlarge,m7i.24xlarge,393216,0,37500.0,0.0,Amazon EC2
+m7i.2xlarge,m7i.2xlarge,32768,0,12500.0,0.0,Amazon EC2
+m7i.48xlarge,m7i.48xlarge,786432,0,50000.0,9.6768,Amazon EC2
+m7i.4xlarge,m7i.4xlarge,65536,0,12500.0,0.88704,Amazon EC2
+m7i.8xlarge,m7i.8xlarge,131072,0,12500.0,1.6128,Amazon EC2
+m7i.large,m7i.large,8192,0,12500.0,0.1008,Amazon EC2
+m7i.xlarge,m7i.xlarge,16384,0,12500.0,0.2016,Amazon EC2
+p2.16xlarge,p2.16xlarge,749568,0,20.0,0.0,Amazon EC2
+p2.8xlarge,p2.8xlarge,499712,0,10.0,7.92,Amazon EC2
+p2.xlarge,p2.xlarge,62464,0,,0.0,Amazon EC2
+p3.16xlarge,p3.16xlarge,499712,0,25.0,0.0,Amazon EC2
+p3.2xlarge,p3.2xlarge,62464,0,10.0,3.259,Amazon EC2
+p3.8xlarge,p3.8xlarge,249856,0,10.0,0.0,Amazon EC2
+p3dn.24xlarge,p3dn.24xlarge,786432,1800,100.0,31.212,Amazon EC2
+p4d.24xlarge,p4d.24xlarge,1179648,8000,400.0,32.7726,Amazon EC2
+p4de.24xlarge,p4de.24xlarge,1179648,8000,400.0,45.062325,Amazon EC2
+p5.48xlarge,p5.48xlarge,2097152,30720,3200.0,98.32,Amazon EC2
+r3.2xlarge,r3.2xlarge,62464,160,,0.0,Amazon EC2
+r3.4xlarge,r3.4xlarge,124928,320,,1.33,Amazon EC2
+r3.8xlarge,r3.8xlarge,249856,640,10.0,2.66,Amazon EC2
+r3.large,r3.large,15616,32,,0.0,Amazon EC2
+r3.xlarge,r3.xlarge,31232,80,,0.333,Amazon EC2
+r4.16xlarge,r4.16xlarge,499712,0,20.0,4.256,Amazon EC2
+r4.2xlarge,r4.2xlarge,62464,0,10.0,0.585,Amazon EC2
+r4.4xlarge,r4.4xlarge,124928,0,10.0,0.0,Amazon EC2
+r4.8xlarge,r4.8xlarge,249856,0,10.0,2.341,Amazon EC2
+r4.large,r4.large,15616,0,10.0,0.146,Amazon EC2
+r4.xlarge,r4.xlarge,31232,0,10.0,0.0,Amazon EC2
+r5.12xlarge,r5.12xlarge,393216,0,10.0,3.205,Amazon EC2
+r5.16xlarge,r5.16xlarge,524288,0,20.0,0.0,Amazon EC2
+r5.24xlarge,r5.24xlarge,786432,0,25.0,6.048,Amazon EC2
+r5.2xlarge,r5.2xlarge,65536,0,10.0,0.504,Amazon EC2
+r5.4xlarge,r5.4xlarge,131072,0,10.0,1.008,Amazon EC2
+r5.8xlarge,r5.8xlarge,262144,0,10.0,0.0,Amazon EC2
+r5.large,r5.large,16384,0,10.0,0.0,Amazon EC2
+r5.xlarge,r5.xlarge,32768,0,10.0,0.0,Amazon EC2
+r5a.12xlarge,r5a.12xlarge,393216,0,10.0,2.712,Amazon EC2
+r5a.16xlarge,r5a.16xlarge,524288,0,12.0,3.616,Amazon EC2
+r5a.24xlarge,r5a.24xlarge,786432,0,20.0,5.424,Amazon EC2
+r5a.2xlarge,r5a.2xlarge,65536,0,10.0,0.452,Amazon EC2
+r5a.4xlarge,r5a.4xlarge,131072,0,10.0,0.904,Amazon EC2
+r5a.8xlarge,r5a.8xlarge,262144,0,10.0,1.808,Amazon EC2
+r5a.large,r5a.large,16384,0,10.0,0.113,Amazon EC2
+r5a.xlarge,r5a.xlarge,32768,0,10.0,0.226,Amazon EC2
+r5ad.12xlarge,r5ad.12xlarge,393216,1800,10.0,3.144,Amazon EC2
+r5ad.16xlarge,r5ad.16xlarge,524288,2400,12.0,4.192,Amazon EC2
+r5ad.24xlarge,r5ad.24xlarge,786432,3600,20.0,6.288,Amazon EC2
+r5ad.2xlarge,r5ad.2xlarge,65536,300,10.0,0.524,Amazon EC2
+r5ad.4xlarge,r5ad.4xlarge,131072,600,10.0,1.048,Amazon EC2
+r5ad.8xlarge,r5ad.8xlarge,262144,1200,10.0,2.096,Amazon EC2
+r5ad.large,r5ad.large,16384,75,10.0,0.131,Amazon EC2
+r5ad.xlarge,r5ad.xlarge,32768,150,10.0,0.262,Amazon EC2
+r5b.12xlarge,r5b.12xlarge,393216,0,10.0,3.576,Amazon EC2
+r5b.16xlarge,r5b.16xlarge,524288,0,20.0,4.768,Amazon EC2
+r5b.24xlarge,r5b.24xlarge,786432,0,25.0,0.0,Amazon EC2
+r5b.2xlarge,r5b.2xlarge,65536,0,10.0,0.596,Amazon EC2
+r5b.4xlarge,r5b.4xlarge,131072,0,10.0,1.3112,Amazon EC2
+r5b.8xlarge,r5b.8xlarge,262144,0,10.0,0.0,Amazon EC2
+r5b.large,r5b.large,16384,0,10.0,0.1639,Amazon EC2
+r5b.xlarge,r5b.xlarge,32768,0,10.0,0.298,Amazon EC2
+r5d.12xlarge,r5d.12xlarge,393216,1800,10.0,0.0,Amazon EC2
+r5d.16xlarge,r5d.16xlarge,524288,2400,20.0,4.608,Amazon EC2
+r5d.24xlarge,r5d.24xlarge,786432,3600,25.0,6.912,Amazon EC2
+r5d.2xlarge,r5d.2xlarge,65536,300,10.0,0.576,Amazon EC2
+r5d.4xlarge,r5d.4xlarge,131072,600,10.0,1.221,Amazon EC2
+r5d.8xlarge,r5d.8xlarge,262144,1200,10.0,2.304,Amazon EC2
+r5d.large,r5d.large,16384,75,10.0,0.144,Amazon EC2
+r5d.xlarge,r5d.xlarge,32768,150,10.0,0.288,Amazon EC2
+r5dn.12xlarge,r5dn.12xlarge,393216,1800,50.0,4.008,Amazon EC2
+r5dn.16xlarge,r5dn.16xlarge,524288,2400,75.0,5.665,Amazon EC2
+r5dn.24xlarge,r5dn.24xlarge,786432,3600,100.0,8.016,Amazon EC2
+r5dn.2xlarge,r5dn.2xlarge,65536,300,25.0,0.668,Amazon EC2
+r5dn.4xlarge,r5dn.4xlarge,131072,600,25.0,1.336,Amazon EC2
+r5dn.8xlarge,r5dn.8xlarge,262144,1200,25.0,2.833,Amazon EC2
+r5dn.large,r5dn.large,16384,75,25.0,0.167,Amazon EC2
+r5dn.xlarge,r5dn.xlarge,32768,150,25.0,0.354,Amazon EC2
+r5n.12xlarge,r5n.12xlarge,393216,0,50.0,0.0,Amazon EC2
+r5n.16xlarge,r5n.16xlarge,524288,0,75.0,4.768,Amazon EC2
+r5n.24xlarge,r5n.24xlarge,786432,0,100.0,0.0,Amazon EC2
+r5n.2xlarge,r5n.2xlarge,65536,0,25.0,0.0,Amazon EC2
+r5n.4xlarge,r5n.4xlarge,131072,0,25.0,1.192,Amazon EC2
+r5n.8xlarge,r5n.8xlarge,262144,0,25.0,2.384,Amazon EC2
+r5n.large,r5n.large,16384,0,25.0,0.0,Amazon EC2
+r5n.xlarge,r5n.xlarge,32768,0,25.0,0.298,Amazon EC2
+r6a.12xlarge,r6a.12xlarge,393216,0,18750.0,2.7216,Amazon EC2
+r6a.16xlarge,r6a.16xlarge,524288,0,25000.0,3.6288,Amazon EC2
+r6a.24xlarge,r6a.24xlarge,786432,0,37500.0,5.4432,Amazon EC2
+r6a.2xlarge,r6a.2xlarge,65536,0,12500.0,0.49896,Amazon EC2
+r6a.32xlarge,r6a.32xlarge,1048576,0,50000.0,0.0,Amazon EC2
+r6a.48xlarge,r6a.48xlarge,1572864,0,50000.0,10.8864,Amazon EC2
+r6a.4xlarge,r6a.4xlarge,131072,0,12500.0,0.9072,Amazon EC2
+r6a.8xlarge,r6a.8xlarge,262144,0,12500.0,0.0,Amazon EC2
+r6a.large,r6a.large,16384,0,12500.0,0.0,Amazon EC2
+r6a.xlarge,r6a.xlarge,32768,0,12500.0,0.24948,Amazon EC2
+r6g.12xlarge,r6g.12xlarge,393216,0,20.0,0.0,Amazon EC2
+r6g.16xlarge,r6g.16xlarge,524288,0,25.0,3.2256,Amazon EC2
+r6g.2xlarge,r6g.2xlarge,65536,0,10.0,0.4032,Amazon EC2
+r6g.4xlarge,r6g.4xlarge,131072,0,10.0,0.8064,Amazon EC2
+r6g.8xlarge,r6g.8xlarge,262144,0,12.0,1.7096,Amazon EC2
+r6g.large,r6g.large,16384,0,10.0,0.1068,Amazon EC2
+r6g.medium,r6g.medium,8192,0,10.0,0.0,Amazon EC2
+r6g.xlarge,r6g.xlarge,32768,0,10.0,0.2016,Amazon EC2
+r6gd.12xlarge,r6gd.12xlarge,393216,2850,20.0,0.0,Amazon EC2
+r6gd.16xlarge,r6gd.16xlarge,524288,3800,25.0,0.0,Amazon EC2
+r6gd.2xlarge,r6gd.2xlarge,65536,475,10.0,0.0,Amazon EC2
+r6gd.4xlarge,r6gd.4xlarge,131072,950,10.0,0.9769,Amazon EC2
+r6gd.8xlarge,r6gd.8xlarge,262144,1900,12.0,0.0,Amazon EC2
+r6gd.large,r6gd.large,16384,118,10.0,0.1152,Amazon EC2
+r6gd.medium,r6gd.medium,8192,59,10.0,0.0611,Amazon EC2
+r6gd.xlarge,r6gd.xlarge,32768,237,10.0,0.2304,Amazon EC2
+r6i.12xlarge,r6i.12xlarge,393216,0,18750.0,0.0,Amazon EC2
+r6i.16xlarge,r6i.16xlarge,524288,0,25000.0,4.4352,Amazon EC2
+r6i.24xlarge,r6i.24xlarge,786432,0,37500.0,6.6528,Amazon EC2
+r6i.2xlarge,r6i.2xlarge,65536,0,12500.0,0.504,Amazon EC2
+r6i.32xlarge,r6i.32xlarge,1048576,0,50000.0,8.064,Amazon EC2
+r6i.4xlarge,r6i.4xlarge,131072,0,12500.0,1.1088,Amazon EC2
+r6i.8xlarge,r6i.8xlarge,262144,0,12500.0,0.0,Amazon EC2
+r6i.large,r6i.large,16384,0,12500.0,0.1386,Amazon EC2
+r6i.xlarge,r6i.xlarge,32768,0,12500.0,0.2772,Amazon EC2
+r6id.12xlarge,r6id.12xlarge,393216,2850,18750.0,3.99168,Amazon EC2
+r6id.16xlarge,r6id.16xlarge,524288,3800,25000.0,0.0,Amazon EC2
+r6id.24xlarge,r6id.24xlarge,786432,5700,37500.0,7.98336,Amazon EC2
+r6id.2xlarge,r6id.2xlarge,65536,474,12500.0,0.66528,Amazon EC2
+r6id.32xlarge,r6id.32xlarge,1048576,7600,50000.0,9.6768,Amazon EC2
+r6id.4xlarge,r6id.4xlarge,131072,950,12500.0,0.0,Amazon EC2
+r6id.8xlarge,r6id.8xlarge,262144,1900,12500.0,2.66112,Amazon EC2
+r6id.large,r6id.large,16384,118,12500.0,0.16632,Amazon EC2
+r6id.xlarge,r6id.xlarge,32768,237,12500.0,0.33264,Amazon EC2
+r6idn.12xlarge,r6idn.12xlarge,393216,2850,75000.0,0.0,Amazon EC2
+r6idn.16xlarge,r6idn.16xlarge,524288,3800,100000.0,6.87773,Amazon EC2
+r6idn.24xlarge,r6idn.24xlarge,786432,5700,150000.0,0.0,Amazon EC2
+r6idn.2xlarge,r6idn.2xlarge,65536,474,40000.0,0.78156,Amazon EC2
+r6idn.32xlarge,r6idn.32xlarge,1048576,7600,200000.0,12.50496,Amazon EC2
+r6idn.4xlarge,r6idn.4xlarge,131072,950,50000.0,1.56312,Amazon EC2
+r6idn.8xlarge,r6idn.8xlarge,262144,1900,50000.0,3.43886,Amazon EC2
+r6idn.large,r6idn.large,16384,118,25000.0,0.19539,Amazon EC2
+r6idn.xlarge,r6idn.xlarge,32768,237,30000.0,0.39078,Amazon EC2
+r6in.12xlarge,r6in.12xlarge,393216,0,75000.0,4.18392,Amazon EC2
+r6in.16xlarge,r6in.16xlarge,524288,0,100000.0,0.0,Amazon EC2
+r6in.24xlarge,r6in.24xlarge,786432,0,150000.0,9.20462,Amazon EC2
+r6in.2xlarge,r6in.2xlarge,65536,0,40000.0,0.76705,Amazon EC2
+r6in.32xlarge,r6in.32xlarge,1048576,0,200000.0,11.15712,Amazon EC2
+r6in.4xlarge,r6in.4xlarge,131072,0,50000.0,1.39464,Amazon EC2
+r6in.8xlarge,r6in.8xlarge,262144,0,50000.0,2.78928,Amazon EC2
+r6in.large,r6in.large,16384,0,25000.0,0.17433,Amazon EC2
+r6in.xlarge,r6in.xlarge,32768,0,30000.0,0.38353,Amazon EC2
+r7g.12xlarge,r7g.12xlarge,393216,0,22500.0,2.5704,Amazon EC2
+r7g.16xlarge,r7g.16xlarge,524288,0,30.0,3.4272,Amazon EC2
+r7g.2xlarge,r7g.2xlarge,65536,0,15.0,0.4284,Amazon EC2
+r7g.4xlarge,r7g.4xlarge,131072,0,15.0,0.8568,Amazon EC2
+r7g.8xlarge,r7g.8xlarge,262144,0,15.0,1.7136,Amazon EC2
+r7g.large,r7g.large,16384,0,12500.0,0.1071,Amazon EC2
+r7g.medium,r7g.medium,8192,0,12500.0,0.0536,Amazon EC2
+r7g.xlarge,r7g.xlarge,32768,0,12500.0,0.2142,Amazon EC2
+r7gd.12xlarge,r7gd.12xlarge,393216,2850,22500.0,3.4614,Amazon EC2
+r7gd.16xlarge,r7gd.16xlarge,524288,3800,30.0,4.3546,Amazon EC2
+r7gd.2xlarge,r7gd.2xlarge,65536,475,15.0,0.5769,Amazon EC2
+r7gd.4xlarge,r7gd.4xlarge,131072,950,15.0,1.1538,Amazon EC2
+r7gd.8xlarge,r7gd.8xlarge,262144,1900,15.0,0.0,Amazon EC2
+r7gd.large,r7gd.large,16384,118,12500.0,0.1442,Amazon EC2
+r7gd.medium,r7gd.medium,8192,59,12500.0,0.068,Amazon EC2
+r7gd.xlarge,r7gd.xlarge,32768,237,12500.0,0.2722,Amazon EC2
+t1.micro,t1.micro,627,0,,0.02,Amazon EC2
+t2.2xlarge,t2.2xlarge,32768,0,,0.3712,Amazon EC2
+t2.large,t2.large,8192,0,,0.0928,Amazon EC2
+t2.medium,t2.medium,4096,0,,0.0464,Amazon EC2
+t2.micro,t2.micro,1024,0,,0.0116,Amazon EC2
+t2.nano,t2.nano,512,0,,0.0058,Amazon EC2
+t2.small,t2.small,2048,0,,0.023,Amazon EC2
+t2.xlarge,t2.xlarge,16384,0,,0.1856,Amazon EC2
+t3.2xlarge,t3.2xlarge,32768,0,5.0,0.3328,Amazon EC2
+t3.large,t3.large,8192,0,5.0,0.0,Amazon EC2
+t3.medium,t3.medium,4096,0,5.0,0.0,Amazon EC2
+t3.micro,t3.micro,1024,0,5.0,0.0104,Amazon EC2
+t3.nano,t3.nano,512,0,5.0,0.0,Amazon EC2
+t3.small,t3.small,2048,0,5.0,0.022,Amazon EC2
+t3.xlarge,t3.xlarge,16384,0,5.0,0.1763,Amazon EC2
+t3a.2xlarge,t3a.2xlarge,32768,0,5.0,0.3008,Amazon EC2
+t3a.large,t3a.large,8192,0,5.0,0.0752,Amazon EC2
+t3a.medium,t3a.medium,4096,0,5.0,0.0376,Amazon EC2
+t3a.micro,t3a.micro,1024,0,5.0,0.0094,Amazon EC2
+t3a.nano,t3a.nano,512,0,5.0,0.0047,Amazon EC2
+t3a.small,t3a.small,2048,0,5.0,0.0188,Amazon EC2
+t3a.xlarge,t3a.xlarge,16384,0,5.0,0.1504,Amazon EC2
+t4g.2xlarge,t4g.2xlarge,32768,0,5.0,0.2688,Amazon EC2
+t4g.large,t4g.large,8192,0,5.0,0.0672,Amazon EC2
+t4g.medium,t4g.medium,4096,0,5.0,0.0336,Amazon EC2
+t4g.micro,t4g.micro,1024,0,5.0,0.0084,Amazon EC2
+t4g.nano,t4g.nano,512,0,5.0,0.0042,Amazon EC2
+t4g.small,t4g.small,2048,0,5.0,0.0168,Amazon EC2
+t4g.xlarge,t4g.xlarge,16384,0,5.0,0.1344,Amazon EC2
+trn1.2xlarge,trn1.2xlarge,32768,475,12500.0,1.34375,Amazon EC2
+trn1.32xlarge,trn1.32xlarge,524288,7600,800.0,21.5,Amazon EC2
+trn1n.32xlarge,trn1n.32xlarge,524288,7600,1600.0,24.78,Amazon EC2
+u-12tb1.112xlarge,u-12tb1.112xlarge,12582912,0,100.0,109.2,Amazon EC2
+u-18tb1.112xlarge,u-18tb1.112xlarge,18874368,0,100.0,163.8,Amazon EC2
+u-24tb1.112xlarge,u-24tb1.112xlarge,25165824,0,100.0,218.4,Amazon EC2
+u-3tb1.56xlarge,u-3tb1.56xlarge,3145728,0,50.0,27.3,Amazon EC2
+u-6tb1.112xlarge,u-6tb1.112xlarge,6291456,0,100.0,54.6,Amazon EC2
+u-6tb1.56xlarge,u-6tb1.56xlarge,6291456,0,100.0,46.40391,Amazon EC2
+u-9tb1.112xlarge,u-9tb1.112xlarge,9437184,0,100.0,81.9,Amazon EC2
+vt1.24xlarge,vt1.24xlarge,196608,0,25000.0,5.2,Amazon EC2
+vt1.3xlarge,vt1.3xlarge,24576,0,3125.0,0.65,Amazon EC2
+vt1.6xlarge,vt1.6xlarge,49152,0,6250.0,1.3,Amazon EC2
+x1.16xlarge,x1.16xlarge,999424,1920,,7.336,Amazon EC2
+x1.32xlarge,x1.32xlarge,1998848,3840,,13.338,Amazon EC2
+x1e.16xlarge,x1e.16xlarge,1998848,1920,10.0,13.344,Amazon EC2
+x1e.2xlarge,x1e.2xlarge,249856,240,10.0,1.835,Amazon EC2
+x1e.32xlarge,x1e.32xlarge,3997696,3840,25.0,0.0,Amazon EC2
+x1e.4xlarge,x1e.4xlarge,499712,480,10.0,0.0,Amazon EC2
+x1e.8xlarge,x1e.8xlarge,999424,960,10.0,7.339,Amazon EC2
+x1e.xlarge,x1e.xlarge,124928,120,10.0,0.917,Amazon EC2
+x2gd.12xlarge,x2gd.12xlarge,786432,2850,20.0,0.0,Amazon EC2
+x2gd.16xlarge,x2gd.16xlarge,1048576,3800,25.0,5.344,Amazon EC2
+x2gd.2xlarge,x2gd.2xlarge,131072,474,10.0,0.668,Amazon EC2
+x2gd.4xlarge,x2gd.4xlarge,262144,950,10.0,1.4696,Amazon EC2
+x2gd.8xlarge,x2gd.8xlarge,524288,1900,12.0,2.672,Amazon EC2
+x2gd.large,x2gd.large,32768,118,10.0,0.1837,Amazon EC2
+x2gd.medium,x2gd.medium,16384,59,10.0,0.0835,Amazon EC2
+x2gd.xlarge,x2gd.xlarge,65536,237,10.0,0.3674,Amazon EC2
+x2idn.16xlarge,x2idn.16xlarge,1048576,1900,50.0,0.0,Amazon EC2
+x2idn.24xlarge,x2idn.24xlarge,1572864,2850,75.0,10.0035,Amazon EC2
+x2idn.32xlarge,x2idn.32xlarge,2097152,3800,100.0,13.338,Amazon EC2
+x2iedn.16xlarge,x2iedn.16xlarge,2097152,1900,50.0,14.6718,Amazon EC2
+x2iedn.24xlarge,x2iedn.24xlarge,3145728,2850,75.0,0.0,Amazon EC2
+x2iedn.2xlarge,x2iedn.2xlarge,262144,237,25.0,0.0,Amazon EC2
+x2iedn.32xlarge,x2iedn.32xlarge,4194304,3800,100.0,0.0,Amazon EC2
+x2iedn.4xlarge,x2iedn.4xlarge,524288,475,25.0,0.0,Amazon EC2
+x2iedn.8xlarge,x2iedn.8xlarge,1048576,950,25.0,7.3359,Amazon EC2
+x2iedn.xlarge,x2iedn.xlarge,131072,118,25.0,0.83363,Amazon EC2
+x2iezn.12xlarge,x2iezn.12xlarge,1572864,0,100.0,10.008,Amazon EC2
+x2iezn.2xlarge,x2iezn.2xlarge,262144,0,25.0,0.0,Amazon EC2
+x2iezn.4xlarge,x2iezn.4xlarge,524288,0,25.0,0.0,Amazon EC2
+x2iezn.6xlarge,x2iezn.6xlarge,786432,0,50.0,5.004,Amazon EC2
+x2iezn.8xlarge,x2iezn.8xlarge,1048576,0,75.0,0.0,Amazon EC2
+z1d.12xlarge,z1d.12xlarge,393216,1800,25.0,4.464,Amazon EC2
+z1d.2xlarge,z1d.2xlarge,65536,300,10.0,0.0,Amazon EC2
+z1d.3xlarge,z1d.3xlarge,98304,450,10.0,1.116,Amazon EC2
+z1d.6xlarge,z1d.6xlarge,196608,900,10.0,2.232,Amazon EC2
+z1d.large,z1d.large,16384,75,10.0,0.0,Amazon EC2
+z1d.xlarge,z1d.xlarge,32768,150,10.0,0.394,Amazon EC2
+1000012,a2-highgpu-1g,87040,0,0.0,,Google Compute Engine
+1000024,a2-highgpu-2g,174080,0,0.0,,Google Compute Engine
+1000048,a2-highgpu-4g,348160,0,0.0,,Google Compute Engine
+1000096,a2-highgpu-8g,696320,0,0.0,,Google Compute Engine
+1001096,a2-megagpu-16g,1392640,0,0.0,,Google Compute Engine
+1020012,a2-ultragpu-1g,174080,0,0.0,,Google Compute Engine
+1020024,a2-ultragpu-2g,348160,0,0.0,,Google Compute Engine
+1020048,a2-ultragpu-4g,696320,0,0.0,,Google Compute Engine
+1020096,a2-ultragpu-8g,1392640,0,0.0,,Google Compute Engine
+1720361,a3-highgpu-1g,239616,0,0.0,,Google Compute Engine
+1720362,a3-highgpu-2g,479232,0,0.0,,Google Compute Engine
+1720363,a3-highgpu-4g,958464,0,0.0,,Google Compute Engine
+1720364,a3-highgpu-8g,1916928,0,0.0,,Google Compute Engine
+1720366,a3-megagpu-8g,1916928,0,0.0,,Google Compute Engine
+801016,c2-standard-16,65536,0,0.0,0.835232,Google Compute Engine
+801030,c2-standard-30,122880,0,0.0,1.56606,Google Compute Engine
+801004,c2-standard-4,16384,0,0.0,0.208808,Google Compute Engine
+801060,c2-standard-60,245760,0,0.0,3.13212,Google Compute Engine
+801008,c2-standard-8,32768,0,0.0,0.417616,Google Compute Engine
+1110112,c2d-highcpu-112,229376,0,0.0,4.8263039999999995,Google Compute Engine
+1110016,c2d-highcpu-16,32768,0,0.0,0.689472,Google Compute Engine
+1110002,c2d-highcpu-2,4096,0,0.0,0.086184,Google Compute Engine
+1110032,c2d-highcpu-32,65536,0,0.0,1.378944,Google Compute Engine
+1110004,c2d-highcpu-4,8192,0,0.0,0.172368,Google Compute Engine
+1110056,c2d-highcpu-56,114688,0,0.0,2.4131519999999997,Google Compute Engine
+1110008,c2d-highcpu-8,16384,0,0.0,0.344736,Google Compute Engine
+1120112,c2d-highmem-112,917504,0,0.0,7.887263999999999,Google Compute Engine
+1120016,c2d-highmem-16,131072,0,0.0,1.126752,Google Compute Engine
+1120002,c2d-highmem-2,16384,0,0.0,0.140844,Google Compute Engine
+1120032,c2d-highmem-32,262144,0,0.0,2.253504,Google Compute Engine
+1120004,c2d-highmem-4,32768,0,0.0,0.281688,Google Compute Engine
+1120056,c2d-highmem-56,458752,0,0.0,3.9436319999999996,Google Compute Engine
+1120008,c2d-highmem-8,65536,0,0.0,0.563376,Google Compute Engine
+1100112,c2d-standard-112,458752,0,0.0,5.846623999999999,Google Compute Engine
+1100016,c2d-standard-16,65536,0,0.0,0.835232,Google Compute Engine
+1100002,c2d-standard-2,8192,0,0.0,0.104404,Google Compute Engine
+1100032,c2d-standard-32,131072,0,0.0,1.670464,Google Compute Engine
+1100004,c2d-standard-4,16384,0,0.0,0.208808,Google Compute Engine
+1100056,c2d-standard-56,229376,0,0.0,2.9233119999999997,Google Compute Engine
+1100008,c2d-standard-8,32768,0,0.0,0.417616,Google Compute Engine
+1320176,c3-highcpu-176,360448,0,0.0,,Google Compute Engine
+1320022,c3-highcpu-22,45056,0,0.0,,Google Compute Engine
+1310004,c3-highcpu-4,8192,0,0.0,,Google Compute Engine
+1320044,c3-highcpu-44,90112,0,0.0,,Google Compute Engine
+1310008,c3-highcpu-8,16384,0,0.0,,Google Compute Engine
+1320088,c3-highcpu-88,180224,0,0.0,,Google Compute Engine
+1330176,c3-highmem-176,1441792,0,0.0,,Google Compute Engine
+1743001,c3-highmem-192-metal,1572864,0,0.0,,Google Compute Engine
+1330022,c3-highmem-22,180224,0,0.0,,Google Compute Engine
+1330004,c3-highmem-4,32768,0,0.0,,Google Compute Engine
+1330044,c3-highmem-44,360448,0,0.0,,Google Compute Engine
+1330008,c3-highmem-8,65536,0,0.0,,Google Compute Engine
+1330088,c3-highmem-88,720896,0,0.0,,Google Compute Engine
+1300176,c3-standard-176,720896,0,0.0,,Google Compute Engine
+1301176,c3-standard-176-lssd,720896,0,0.0,,Google Compute Engine
+1740000,c3-standard-192-metal,786432,0,0.0,,Google Compute Engine
+1300022,c3-standard-22,90112,0,0.0,,Google Compute Engine
+1301022,c3-standard-22-lssd,90112,0,0.0,,Google Compute Engine
+1300004,c3-standard-4,16384,0,0.0,,Google Compute Engine
+1301004,c3-standard-4-lssd,16384,0,0.0,,Google Compute Engine
+1300044,c3-standard-44,180224,0,0.0,,Google Compute Engine
+1301044,c3-standard-44-lssd,180224,0,0.0,,Google Compute Engine
+1300008,c3-standard-8,32768,0,0.0,,Google Compute Engine
+1301008,c3-standard-8-lssd,32768,0,0.0,,Google Compute Engine
+1300088,c3-standard-88,360448,0,0.0,,Google Compute Engine
+1301088,c3-standard-88-lssd,360448,0,0.0,,Google Compute Engine
+1700016,c3d-highcpu-16,32768,0,0.0,,Google Compute Engine
+1700180,c3d-highcpu-180,362496,0,0.0,,Google Compute Engine
+1700030,c3d-highcpu-30,60416,0,0.0,,Google Compute Engine
+1700360,c3d-highcpu-360,724992,0,0.0,,Google Compute Engine
+1700004,c3d-highcpu-4,8192,0,0.0,,Google Compute Engine
+1700060,c3d-highcpu-60,120832,0,0.0,,Google Compute Engine
+1700008,c3d-highcpu-8,16384,0,0.0,,Google Compute Engine
+1700090,c3d-highcpu-90,181248,0,0.0,,Google Compute Engine
+1710016,c3d-highmem-16,131072,0,0.0,,Google Compute Engine
+9905016,c3d-highmem-16-lssd,131072,0,0.0,,Google Compute Engine
+1710180,c3d-highmem-180,1474560,0,0.0,,Google Compute Engine
+9905180,c3d-highmem-180-lssd,1474560,0,0.0,,Google Compute Engine
+1710030,c3d-highmem-30,245760,0,0.0,,Google Compute Engine
+9905030,c3d-highmem-30-lssd,245760,0,0.0,,Google Compute Engine
+1710360,c3d-highmem-360,2949120,0,0.0,,Google Compute Engine
+9905360,c3d-highmem-360-lssd,2949120,0,0.0,,Google Compute Engine
+1710004,c3d-highmem-4,32768,0,0.0,,Google Compute Engine
+1710060,c3d-highmem-60,491520,0,0.0,,Google Compute Engine
+9905060,c3d-highmem-60-lssd,491520,0,0.0,,Google Compute Engine
+1710008,c3d-highmem-8,65536,0,0.0,,Google Compute Engine
+9905008,c3d-highmem-8-lssd,65536,0,0.0,,Google Compute Engine
+1710090,c3d-highmem-90,737280,0,0.0,,Google Compute Engine
+9905090,c3d-highmem-90-lssd,737280,0,0.0,,Google Compute Engine
+1720016,c3d-standard-16,65536,0,0.0,,Google Compute Engine
+1730016,c3d-standard-16-lssd,65536,0,0.0,,Google Compute Engine
+1720180,c3d-standard-180,737280,0,0.0,,Google Compute Engine
+1730180,c3d-standard-180-lssd,737280,0,0.0,,Google Compute Engine
+1720030,c3d-standard-30,122880,0,0.0,,Google Compute Engine
+1730030,c3d-standard-30-lssd,122880,0,0.0,,Google Compute Engine
+1720360,c3d-standard-360,1474560,0,0.0,,Google Compute Engine
+1730360,c3d-standard-360-lssd,1474560,0,0.0,,Google Compute Engine
+1720004,c3d-standard-4,16384,0,0.0,,Google Compute Engine
+1720060,c3d-standard-60,245760,0,0.0,,Google Compute Engine
+1730060,c3d-standard-60-lssd,245760,0,0.0,,Google Compute Engine
+1720008,c3d-standard-8,32768,0,0.0,,Google Compute Engine
+1730008,c3d-standard-8-lssd,32768,0,0.0,,Google Compute Engine
+1720090,c3d-standard-90,368640,0,0.0,,Google Compute Engine
+1730090,c3d-standard-90-lssd,368640,0,0.0,,Google Compute Engine
+1760016,c4-highcpu-16,32768,0,0.0,,Google Compute Engine
+1760192,c4-highcpu-192,393216,0,0.0,,Google Compute Engine
+1760002,c4-highcpu-2,4096,0,0.0,,Google Compute Engine
+1760032,c4-highcpu-32,65536,0,0.0,,Google Compute Engine
+1760004,c4-highcpu-4,8192,0,0.0,,Google Compute Engine
+1760048,c4-highcpu-48,98304,0,0.0,,Google Compute Engine
+1760008,c4-highcpu-8,16384,0,0.0,,Google Compute Engine
+1760096,c4-highcpu-96,196608,0,0.0,,Google Compute Engine
+1761016,c4-highmem-16,126976,0,0.0,,Google Compute Engine
+1761192,c4-highmem-192,1523712,0,0.0,,Google Compute Engine
+1761002,c4-highmem-2,15360,0,0.0,,Google Compute Engine
+1761032,c4-highmem-32,253952,0,0.0,,Google Compute Engine
+1761004,c4-highmem-4,31744,0,0.0,,Google Compute Engine
+1761048,c4-highmem-48,380928,0,0.0,,Google Compute Engine
+1761008,c4-highmem-8,63488,0,0.0,,Google Compute Engine
+1761096,c4-highmem-96,761856,0,0.0,,Google Compute Engine
+1762016,c4-standard-16,61440,0,0.0,,Google Compute Engine
+1762192,c4-standard-192,737280,0,0.0,,Google Compute Engine
+1762002,c4-standard-2,7168,0,0.0,,Google Compute Engine
+1762032,c4-standard-32,122880,0,0.0,,Google Compute Engine
+1762004,c4-standard-4,15360,0,0.0,,Google Compute Engine
+1762048,c4-standard-48,184320,0,0.0,,Google Compute Engine
+1762008,c4-standard-8,30720,0,0.0,,Google Compute Engine
+1762096,c4-standard-96,368640,0,0.0,,Google Compute Engine
+1765202,c4a-highcpu-1,2048,0,0.0,,Google Compute Engine
+1765206,c4a-highcpu-16,32768,0,0.0,,Google Compute Engine
+1765203,c4a-highcpu-2,4096,0,0.0,,Google Compute Engine
+1765207,c4a-highcpu-32,65536,0,0.0,,Google Compute Engine
+1765204,c4a-highcpu-4,8192,0,0.0,,Google Compute Engine
+1765208,c4a-highcpu-48,98304,0,0.0,,Google Compute Engine
+1765209,c4a-highcpu-64,131072,0,0.0,,Google Compute Engine
+1765210,c4a-highcpu-72,147456,0,0.0,,Google Compute Engine
+1765205,c4a-highcpu-8,16384,0,0.0,,Google Compute Engine
+1765211,c4a-highmem-1,8192,0,0.0,,Google Compute Engine
+1765215,c4a-highmem-16,131072,0,0.0,,Google Compute Engine
+1765212,c4a-highmem-2,16384,0,0.0,,Google Compute Engine
+1765216,c4a-highmem-32,262144,0,0.0,,Google Compute Engine
+1765213,c4a-highmem-4,32768,0,0.0,,Google Compute Engine
+1765217,c4a-highmem-48,393216,0,0.0,,Google Compute Engine
+1765218,c4a-highmem-64,524288,0,0.0,,Google Compute Engine
+1765219,c4a-highmem-72,589824,0,0.0,,Google Compute Engine
+1765214,c4a-highmem-8,65536,0,0.0,,Google Compute Engine
+1765193,c4a-standard-1,4096,0,0.0,,Google Compute Engine
+1765197,c4a-standard-16,65536,0,0.0,,Google Compute Engine
+1765194,c4a-standard-2,8192,0,0.0,,Google Compute Engine
+1765198,c4a-standard-32,131072,0,0.0,,Google Compute Engine
+1765195,c4a-standard-4,16384,0,0.0,,Google Compute Engine
+1765199,c4a-standard-48,196608,0,0.0,,Google Compute Engine
+1765200,c4a-standard-64,262144,0,0.0,,Google Compute Engine
+1765201,c4a-standard-72,294912,0,0.0,,Google Compute Engine
+1765196,c4a-standard-8,32768,0,0.0,,Google Compute Engine
+700094,ct3-hightpu-4t,348160,0,0.0,,Google Compute Engine
+700095,ct3p-hightpu-4t,348160,0,0.0,,Google Compute Engine
+1740001,ct5l-hightpu-1t,49152,0,0.0,,Google Compute Engine
+1740002,ct5l-hightpu-4t,196608,0,0.0,,Google Compute Engine
+1740003,ct5l-hightpu-8t,393216,0,0.0,,Google Compute Engine
+1740004,ct5lp-hightpu-1t,49152,0,0.0,,Google Compute Engine
+1740005,ct5lp-hightpu-4t,196608,0,0.0,,Google Compute Engine
+1740006,ct5lp-hightpu-8t,393216,0,0.0,,Google Compute Engine
+1741005,ct5p-hightpu-4t,458752,0,0.0,,Google Compute Engine
+337016,e2-highcpu-16,16384,0,0.0,0.39576192,Google Compute Engine
+337002,e2-highcpu-2,2048,0,0.0,0.04947024,Google Compute Engine
+337032,e2-highcpu-32,32768,0,0.0,0.79152384,Google Compute Engine
+337004,e2-highcpu-4,4096,0,0.0,0.09894048,Google Compute Engine
+337008,e2-highcpu-8,8192,0,0.0,0.19788096,Google Compute Engine
+336016,e2-highmem-16,131072,0,0.0,0.7231972799999999,Google Compute Engine
+336002,e2-highmem-2,16384,0,0.0,0.09039965999999999,Google Compute Engine
+336004,e2-highmem-4,32768,0,0.0,0.18079931999999999,Google Compute Engine
+336008,e2-highmem-8,65536,0,0.0,0.36159863999999997,Google Compute Engine
+334004,e2-medium,4096,0,0.0,0.0553173,Google Compute Engine
+334002,e2-micro,1024,0,0.0,0.04654671,Google Compute Engine
+334003,e2-small,2048,0,0.0,0.04947024,Google Compute Engine
+335016,e2-standard-16,65536,0,0.0,0.53609136,Google Compute Engine
+335002,e2-standard-2,8192,0,0.0,0.06701142,Google Compute Engine
+335032,e2-standard-32,131072,0,0.0,1.07218272,Google Compute Engine
+335004,e2-standard-4,16384,0,0.0,0.13402284,Google Compute Engine
+335008,e2-standard-8,32768,0,0.0,0.26804568,Google Compute Engine
+1000,f1-micro,614,0,0.0,,Google Compute Engine
+2000,g1-small,1740,0,0.0,,Google Compute Engine
+1600012,g2-standard-12,49152,0,0.0,,Google Compute Engine
+1600016,g2-standard-16,65536,0,0.0,,Google Compute Engine
+1600024,g2-standard-24,98304,0,0.0,,Google Compute Engine
+1600032,g2-standard-32,131072,0,0.0,,Google Compute Engine
+1600004,g2-standard-4,16384,0,0.0,,Google Compute Engine
+1600048,g2-standard-48,196608,0,0.0,,Google Compute Engine
+1600008,g2-standard-8,32768,0,0.0,,Google Compute Engine
+1600096,g2-standard-96,393216,0,0.0,,Google Compute Engine
+1360088,h3-standard-88,360448,0,0.0,,Google Compute Engine
+9196,m1-megamem-96,1468006,0,0.0,10.652158007812499,Google Compute Engine
+11160,m1-ultramem-160,3936256,0,0.0,25.172400000000003,Google Compute Engine
+11040,m1-ultramem-40,984064,0,0.0,6.293100000000001,Google Compute Engine
+11080,m1-ultramem-80,1968128,0,0.0,12.586200000000002,Google Compute Engine
+804417,m2-hypermem-416,9043968,0,0.0,,Google Compute Engine
+805416,m2-megamem-416,6029312,0,0.0,,Google Compute Engine
+804208,m2-ultramem-208,6029312,0,0.0,,Google Compute Engine
+804416,m2-ultramem-416,12058624,0,0.0,,Google Compute Engine
+1400128,m3-megamem-128,1998848,0,0.0,,Google Compute Engine
+1400064,m3-megamem-64,999424,0,0.0,,Google Compute Engine
+1410128,m3-ultramem-128,3997696,0,0.0,,Google Compute Engine
+1410032,m3-ultramem-32,999424,0,0.0,,Google Compute Engine
+1410064,m3-ultramem-64,1998848,0,0.0,,Google Compute Engine
+4016,n1-highcpu-16,14746,10,0.0,0.566790455078125,Google Compute Engine
+4002,n1-highcpu-2,1843,10,0.0,0.0708477724609375,Google Compute Engine
+4032,n1-highcpu-32,29491,0,0.0,1.1335767724609376,Google Compute Engine
+4004,n1-highcpu-4,3686,10,0.0,0.141695544921875,Google Compute Engine
+4064,n1-highcpu-64,58982,0,0.0,2.267153544921875,Google Compute Engine
+4008,n1-highcpu-8,7373,10,0.0,0.2833952275390625,Google Compute Engine
+4096,n1-highcpu-96,88474,0,0.0,3.400734455078125,Google Compute Engine
+5016,n1-highmem-16,106496,10,0.0,0.946424,Google Compute Engine
+5002,n1-highmem-2,13312,10,0.0,0.118303,Google Compute Engine
+5032,n1-highmem-32,212992,0,0.0,1.892848,Google Compute Engine
+5004,n1-highmem-4,26624,10,0.0,0.236606,Google Compute Engine
+5064,n1-highmem-64,425984,0,0.0,3.785696,Google Compute Engine
+5008,n1-highmem-8,53248,10,0.0,0.473212,Google Compute Engine
+5096,n1-highmem-96,638976,0,0.0,5.6785440000000005,Google Compute Engine
+9096,n1-megamem-96,1468006,0,0.0,9.108817544921877,Google Compute Engine
+3001,n1-standard-1,3840,10,0.0,0.04749975,Google Compute Engine
+3016,n1-standard-16,61440,10,0.0,0.759996,Google Compute Engine
+3002,n1-standard-2,7680,10,0.0,0.0949995,Google Compute Engine
+3032,n1-standard-32,122880,0,0.0,1.519992,Google Compute Engine
+3004,n1-standard-4,15360,10,0.0,0.189999,Google Compute Engine
+3064,n1-standard-64,245760,0,0.0,3.039984,Google Compute Engine
+3008,n1-standard-8,30720,10,0.0,0.379998,Google Compute Engine
+3096,n1-standard-96,368640,0,0.0,4.559976,Google Compute Engine
+10160,n1-ultramem-160,3936256,0,0.0,21.344788,Google Compute Engine
+10040,n1-ultramem-40,984064,0,0.0,5.336197,Google Compute Engine
+10080,n1-ultramem-80,1968128,0,0.0,10.672394,Google Compute Engine
+903016,n2-highcpu-16,16384,0,0.0,0.573568,Google Compute Engine
+903002,n2-highcpu-2,2048,0,0.0,0.071696,Google Compute Engine
+903032,n2-highcpu-32,32768,0,0.0,1.147136,Google Compute Engine
+903004,n2-highcpu-4,4096,0,0.0,0.143392,Google Compute Engine
+903048,n2-highcpu-48,49152,0,0.0,1.720704,Google Compute Engine
+903064,n2-highcpu-64,65536,0,0.0,2.294272,Google Compute Engine
+903008,n2-highcpu-8,8192,0,0.0,0.286784,Google Compute Engine
+903080,n2-highcpu-80,81920,0,0.0,2.86784,Google Compute Engine
+903096,n2-highcpu-96,98304,0,0.0,3.441408,Google Compute Engine
+902128,n2-highmem-128,884736,0,0.0,7.706976000000001,Google Compute Engine
+902016,n2-highmem-16,131072,0,0.0,1.0481120000000002,Google Compute Engine
+902002,n2-highmem-2,16384,0,0.0,0.13101400000000002,Google Compute Engine
+902032,n2-highmem-32,262144,0,0.0,2.0962240000000003,Google Compute Engine
+902004,n2-highmem-4,32768,0,0.0,0.26202800000000004,Google Compute Engine
+902048,n2-highmem-48,393216,0,0.0,3.144336,Google Compute Engine
+902064,n2-highmem-64,524288,0,0.0,4.192448000000001,Google Compute Engine
+902008,n2-highmem-8,65536,0,0.0,0.5240560000000001,Google Compute Engine
+902080,n2-highmem-80,655360,0,0.0,5.24056,Google Compute Engine
+902096,n2-highmem-96,786432,0,0.0,6.288672,Google Compute Engine
+901128,n2-standard-128,524288,0,0.0,6.215552000000001,Google Compute Engine
+901016,n2-standard-16,65536,0,0.0,0.7769440000000001,Google Compute Engine
+901002,n2-standard-2,8192,0,0.0,0.09711800000000001,Google Compute Engine
+901032,n2-standard-32,131072,0,0.0,1.5538880000000002,Google Compute Engine
+901004,n2-standard-4,16384,0,0.0,0.19423600000000002,Google Compute Engine
+901048,n2-standard-48,196608,0,0.0,2.330832,Google Compute Engine
+901064,n2-standard-64,262144,0,0.0,3.1077760000000003,Google Compute Engine
+901008,n2-standard-8,32768,0,0.0,0.38847200000000004,Google Compute Engine
+901080,n2-standard-80,327680,0,0.0,3.88472,Google Compute Engine
+901096,n2-standard-96,393216,0,0.0,4.661664,Google Compute Engine
+910128,n2d-highcpu-128,131072,0,0.0,4.588544,Google Compute Engine
+910016,n2d-highcpu-16,16384,0,0.0,0.573568,Google Compute Engine
+910002,n2d-highcpu-2,2048,0,0.0,0.071696,Google Compute Engine
+910224,n2d-highcpu-224,229376,0,0.0,8.029952,Google Compute Engine
+910032,n2d-highcpu-32,32768,0,0.0,1.147136,Google Compute Engine
+910004,n2d-highcpu-4,4096,0,0.0,0.143392,Google Compute Engine
+910048,n2d-highcpu-48,49152,0,0.0,1.720704,Google Compute Engine
+910064,n2d-highcpu-64,65536,0,0.0,2.294272,Google Compute Engine
+910008,n2d-highcpu-8,8192,0,0.0,0.286784,Google Compute Engine
+910080,n2d-highcpu-80,81920,0,0.0,2.86784,Google Compute Engine
+910096,n2d-highcpu-96,98304,0,0.0,3.441408,Google Compute Engine
+912016,n2d-highmem-16,131072,0,0.0,1.0481120000000002,Google Compute Engine
+912002,n2d-highmem-2,16384,0,0.0,0.13101400000000002,Google Compute Engine
+912032,n2d-highmem-32,262144,0,0.0,2.0962240000000003,Google Compute Engine
+912004,n2d-highmem-4,32768,0,0.0,0.26202800000000004,Google Compute Engine
+912048,n2d-highmem-48,393216,0,0.0,3.144336,Google Compute Engine
+912064,n2d-highmem-64,524288,0,0.0,4.192448000000001,Google Compute Engine
+912008,n2d-highmem-8,65536,0,0.0,0.5240560000000001,Google Compute Engine
+912080,n2d-highmem-80,655360,0,0.0,5.24056,Google Compute Engine
+912096,n2d-highmem-96,786432,0,0.0,6.288672,Google Compute Engine
+911128,n2d-standard-128,524288,0,0.0,6.215552000000001,Google Compute Engine
+911016,n2d-standard-16,65536,0,0.0,0.7769440000000001,Google Compute Engine
+911002,n2d-standard-2,8192,0,0.0,0.09711800000000001,Google Compute Engine
+911224,n2d-standard-224,917504,0,0.0,10.877216,Google Compute Engine
+911032,n2d-standard-32,131072,0,0.0,1.5538880000000002,Google Compute Engine
+911004,n2d-standard-4,16384,0,0.0,0.19423600000000002,Google Compute Engine
+911048,n2d-standard-48,196608,0,0.0,2.330832,Google Compute Engine
+911064,n2d-standard-64,262144,0,0.0,3.1077760000000003,Google Compute Engine
+911008,n2d-standard-8,32768,0,0.0,0.38847200000000004,Google Compute Engine
+911080,n2d-standard-80,327680,0,0.0,3.88472,Google Compute Engine
+911096,n2d-standard-96,393216,0,0.0,4.661664,Google Compute Engine
+1750020,n4-highcpu-16,32768,0,0.0,,Google Compute Engine
+1750017,n4-highcpu-2,4096,0,0.0,,Google Compute Engine
+1750021,n4-highcpu-32,65536,0,0.0,,Google Compute Engine
+1750018,n4-highcpu-4,8192,0,0.0,,Google Compute Engine
+1750022,n4-highcpu-48,98304,0,0.0,,Google Compute Engine
+1750023,n4-highcpu-64,131072,0,0.0,,Google Compute Engine
+1750019,n4-highcpu-8,16384,0,0.0,,Google Compute Engine
+1750024,n4-highcpu-80,163840,0,0.0,,Google Compute Engine
+1750012,n4-highmem-16,131072,0,0.0,,Google Compute Engine
+1750009,n4-highmem-2,16384,0,0.0,,Google Compute Engine
+1750013,n4-highmem-32,262144,0,0.0,,Google Compute Engine
+1750010,n4-highmem-4,32768,0,0.0,,Google Compute Engine
+1750014,n4-highmem-48,393216,0,0.0,,Google Compute Engine
+1750015,n4-highmem-64,524288,0,0.0,,Google Compute Engine
+1750011,n4-highmem-8,65536,0,0.0,,Google Compute Engine
+1750016,n4-highmem-80,655360,0,0.0,,Google Compute Engine
+1750004,n4-standard-16,65536,0,0.0,,Google Compute Engine
+1750001,n4-standard-2,8192,0,0.0,,Google Compute Engine
+1750005,n4-standard-32,131072,0,0.0,,Google Compute Engine
+1750002,n4-standard-4,16384,0,0.0,,Google Compute Engine
+1750006,n4-standard-48,196608,0,0.0,,Google Compute Engine
+1750007,n4-standard-64,262144,0,0.0,,Google Compute Engine
+1750003,n4-standard-8,32768,0,0.0,,Google Compute Engine
+1750008,n4-standard-80,327680,0,0.0,,Google Compute Engine
+1220001,t2a-standard-1,4096,0,0.0,,Google Compute Engine
+1220005,t2a-standard-16,65536,0,0.0,,Google Compute Engine
+1220002,t2a-standard-2,8192,0,0.0,,Google Compute Engine
+1220006,t2a-standard-32,131072,0,0.0,,Google Compute Engine
+1220003,t2a-standard-4,16384,0,0.0,,Google Compute Engine
+1220007,t2a-standard-48,196608,0,0.0,,Google Compute Engine
+1220004,t2a-standard-8,32768,0,0.0,,Google Compute Engine
+1210001,t2d-standard-1,4096,0,0.0,,Google Compute Engine
+1210016,t2d-standard-16,65536,0,0.0,,Google Compute Engine
+1210002,t2d-standard-2,8192,0,0.0,,Google Compute Engine
+1210032,t2d-standard-32,131072,0,0.0,,Google Compute Engine
+1210004,t2d-standard-4,16384,0,0.0,,Google Compute Engine
+1210048,t2d-standard-48,196608,0,0.0,,Google Compute Engine
+1210060,t2d-standard-60,245760,0,0.0,,Google Compute Engine
+1210008,t2d-standard-8,32768,0,0.0,,Google Compute Engine
+9904364,x4-megamem-1440-metal,25165824,0,0.0,,Google Compute Engine
+9904365,x4-megamem-1920-metal,33554432,0,0.0,,Google Compute Engine
+9904363,x4-megamem-960-metal,16777216,0,0.0,,Google Compute Engine
+1742001,z3-highmem-176,1441792,0,0.0,,Google Compute Engine
+1742000,z3-highmem-88,720896,0,0.0,,Google Compute Engine
+1000012,a2-highgpu-1g,87040,0,0.0,,Google Compute Engine
+1000024,a2-highgpu-2g,174080,0,0.0,,Google Compute Engine
+1000048,a2-highgpu-4g,348160,0,0.0,,Google Compute Engine
+1000096,a2-highgpu-8g,696320,0,0.0,,Google Compute Engine
+1001096,a2-megagpu-16g,1392640,0,0.0,,Google Compute Engine
+1720361,a3-highgpu-1g,239616,0,0.0,,Google Compute Engine
+1720362,a3-highgpu-2g,479232,0,0.0,,Google Compute Engine
+1720363,a3-highgpu-4g,958464,0,0.0,,Google Compute Engine
+1720364,a3-highgpu-8g,1916928,0,0.0,,Google Compute Engine
+1720366,a3-megagpu-8g,1916928,0,0.0,,Google Compute Engine
+801016,c2-standard-16,65536,0,0.0,0.835232,Google Compute Engine
+801030,c2-standard-30,122880,0,0.0,1.56606,Google Compute Engine
+801004,c2-standard-4,16384,0,0.0,0.208808,Google Compute Engine
+801060,c2-standard-60,245760,0,0.0,3.13212,Google Compute Engine
+801008,c2-standard-8,32768,0,0.0,0.417616,Google Compute Engine
+1110112,c2d-highcpu-112,229376,0,0.0,4.8263039999999995,Google Compute Engine
+1110016,c2d-highcpu-16,32768,0,0.0,0.689472,Google Compute Engine
+1110002,c2d-highcpu-2,4096,0,0.0,0.086184,Google Compute Engine
+1110032,c2d-highcpu-32,65536,0,0.0,1.378944,Google Compute Engine
+1110004,c2d-highcpu-4,8192,0,0.0,0.172368,Google Compute Engine
+1110056,c2d-highcpu-56,114688,0,0.0,2.4131519999999997,Google Compute Engine
+1110008,c2d-highcpu-8,16384,0,0.0,0.344736,Google Compute Engine
+1120112,c2d-highmem-112,917504,0,0.0,7.887263999999999,Google Compute Engine
+1120016,c2d-highmem-16,131072,0,0.0,1.126752,Google Compute Engine
+1120002,c2d-highmem-2,16384,0,0.0,0.140844,Google Compute Engine
+1120032,c2d-highmem-32,262144,0,0.0,2.253504,Google Compute Engine
+1120004,c2d-highmem-4,32768,0,0.0,0.281688,Google Compute Engine
+1120056,c2d-highmem-56,458752,0,0.0,3.9436319999999996,Google Compute Engine
+1120008,c2d-highmem-8,65536,0,0.0,0.563376,Google Compute Engine
+1100112,c2d-standard-112,458752,0,0.0,5.846623999999999,Google Compute Engine
+1100016,c2d-standard-16,65536,0,0.0,0.835232,Google Compute Engine
+1100002,c2d-standard-2,8192,0,0.0,0.104404,Google Compute Engine
+1100032,c2d-standard-32,131072,0,0.0,1.670464,Google Compute Engine
+1100004,c2d-standard-4,16384,0,0.0,0.208808,Google Compute Engine
+1100056,c2d-standard-56,229376,0,0.0,2.9233119999999997,Google Compute Engine
+1100008,c2d-standard-8,32768,0,0.0,0.417616,Google Compute Engine
+1320176,c3-highcpu-176,360448,0,0.0,,Google Compute Engine
+1320022,c3-highcpu-22,45056,0,0.0,,Google Compute Engine
+1310004,c3-highcpu-4,8192,0,0.0,,Google Compute Engine
+1320044,c3-highcpu-44,90112,0,0.0,,Google Compute Engine
+1310008,c3-highcpu-8,16384,0,0.0,,Google Compute Engine
+1320088,c3-highcpu-88,180224,0,0.0,,Google Compute Engine
+1330176,c3-highmem-176,1441792,0,0.0,,Google Compute Engine
+1330022,c3-highmem-22,180224,0,0.0,,Google Compute Engine
+1330004,c3-highmem-4,32768,0,0.0,,Google Compute Engine
+1330044,c3-highmem-44,360448,0,0.0,,Google Compute Engine
+1330008,c3-highmem-8,65536,0,0.0,,Google Compute Engine
+1330088,c3-highmem-88,720896,0,0.0,,Google Compute Engine
+1300176,c3-standard-176,720896,0,0.0,,Google Compute Engine
+1301176,c3-standard-176-lssd,720896,0,0.0,,Google Compute Engine
+1300022,c3-standard-22,90112,0,0.0,,Google Compute Engine
+1301022,c3-standard-22-lssd,90112,0,0.0,,Google Compute Engine
+1300004,c3-standard-4,16384,0,0.0,,Google Compute Engine
+1301004,c3-standard-4-lssd,16384,0,0.0,,Google Compute Engine
+1300044,c3-standard-44,180224,0,0.0,,Google Compute Engine
+1301044,c3-standard-44-lssd,180224,0,0.0,,Google Compute Engine
+1300008,c3-standard-8,32768,0,0.0,,Google Compute Engine
+1301008,c3-standard-8-lssd,32768,0,0.0,,Google Compute Engine
+1300088,c3-standard-88,360448,0,0.0,,Google Compute Engine
+1301088,c3-standard-88-lssd,360448,0,0.0,,Google Compute Engine
+1700016,c3d-highcpu-16,32768,0,0.0,,Google Compute Engine
+1700180,c3d-highcpu-180,362496,0,0.0,,Google Compute Engine
+1700030,c3d-highcpu-30,60416,0,0.0,,Google Compute Engine
+1700360,c3d-highcpu-360,724992,0,0.0,,Google Compute Engine
+1700004,c3d-highcpu-4,8192,0,0.0,,Google Compute Engine
+1700060,c3d-highcpu-60,120832,0,0.0,,Google Compute Engine
+1700008,c3d-highcpu-8,16384,0,0.0,,Google Compute Engine
+1700090,c3d-highcpu-90,181248,0,0.0,,Google Compute Engine
+1710016,c3d-highmem-16,131072,0,0.0,,Google Compute Engine
+1710180,c3d-highmem-180,1474560,0,0.0,,Google Compute Engine
+1710030,c3d-highmem-30,245760,0,0.0,,Google Compute Engine
+1710360,c3d-highmem-360,2949120,0,0.0,,Google Compute Engine
+1710004,c3d-highmem-4,32768,0,0.0,,Google Compute Engine
+1710060,c3d-highmem-60,491520,0,0.0,,Google Compute Engine
+1710008,c3d-highmem-8,65536,0,0.0,,Google Compute Engine
+1710090,c3d-highmem-90,737280,0,0.0,,Google Compute Engine
+1720016,c3d-standard-16,65536,0,0.0,,Google Compute Engine
+1730016,c3d-standard-16-lssd,65536,0,0.0,,Google Compute Engine
+1720180,c3d-standard-180,737280,0,0.0,,Google Compute Engine
+1730180,c3d-standard-180-lssd,737280,0,0.0,,Google Compute Engine
+1720030,c3d-standard-30,122880,0,0.0,,Google Compute Engine
+1730030,c3d-standard-30-lssd,122880,0,0.0,,Google Compute Engine
+1720360,c3d-standard-360,1474560,0,0.0,,Google Compute Engine
+1730360,c3d-standard-360-lssd,1474560,0,0.0,,Google Compute Engine
+1720004,c3d-standard-4,16384,0,0.0,,Google Compute Engine
+1720060,c3d-standard-60,245760,0,0.0,,Google Compute Engine
+1730060,c3d-standard-60-lssd,245760,0,0.0,,Google Compute Engine
+1720008,c3d-standard-8,32768,0,0.0,,Google Compute Engine
+1730008,c3d-standard-8-lssd,32768,0,0.0,,Google Compute Engine
+1720090,c3d-standard-90,368640,0,0.0,,Google Compute Engine
+1730090,c3d-standard-90-lssd,368640,0,0.0,,Google Compute Engine
+1760016,c4-highcpu-16,32768,0,0.0,,Google Compute Engine
+1760192,c4-highcpu-192,393216,0,0.0,,Google Compute Engine
+1760002,c4-highcpu-2,4096,0,0.0,,Google Compute Engine
+1760032,c4-highcpu-32,65536,0,0.0,,Google Compute Engine
+1760004,c4-highcpu-4,8192,0,0.0,,Google Compute Engine
+1760048,c4-highcpu-48,98304,0,0.0,,Google Compute Engine
+1760008,c4-highcpu-8,16384,0,0.0,,Google Compute Engine
+1760096,c4-highcpu-96,196608,0,0.0,,Google Compute Engine
+1761016,c4-highmem-16,126976,0,0.0,,Google Compute Engine
+1761192,c4-highmem-192,1523712,0,0.0,,Google Compute Engine
+1761002,c4-highmem-2,15360,0,0.0,,Google Compute Engine
+1761032,c4-highmem-32,253952,0,0.0,,Google Compute Engine
+1761004,c4-highmem-4,31744,0,0.0,,Google Compute Engine
+1761048,c4-highmem-48,380928,0,0.0,,Google Compute Engine
+1761008,c4-highmem-8,63488,0,0.0,,Google Compute Engine
+1761096,c4-highmem-96,761856,0,0.0,,Google Compute Engine
+1762016,c4-standard-16,61440,0,0.0,,Google Compute Engine
+1762192,c4-standard-192,737280,0,0.0,,Google Compute Engine
+1762002,c4-standard-2,7168,0,0.0,,Google Compute Engine
+1762032,c4-standard-32,122880,0,0.0,,Google Compute Engine
+1762004,c4-standard-4,15360,0,0.0,,Google Compute Engine
+1762048,c4-standard-48,184320,0,0.0,,Google Compute Engine
+1762008,c4-standard-8,30720,0,0.0,,Google Compute Engine
+1762096,c4-standard-96,368640,0,0.0,,Google Compute Engine
+1765202,c4a-highcpu-1,2048,0,0.0,,Google Compute Engine
+1765206,c4a-highcpu-16,32768,0,0.0,,Google Compute Engine
+1765203,c4a-highcpu-2,4096,0,0.0,,Google Compute Engine
+1765207,c4a-highcpu-32,65536,0,0.0,,Google Compute Engine
+1765204,c4a-highcpu-4,8192,0,0.0,,Google Compute Engine
+1765208,c4a-highcpu-48,98304,0,0.0,,Google Compute Engine
+1765209,c4a-highcpu-64,131072,0,0.0,,Google Compute Engine
+1765210,c4a-highcpu-72,147456,0,0.0,,Google Compute Engine
+1765205,c4a-highcpu-8,16384,0,0.0,,Google Compute Engine
+1765211,c4a-highmem-1,8192,0,0.0,,Google Compute Engine
+1765215,c4a-highmem-16,131072,0,0.0,,Google Compute Engine
+1765212,c4a-highmem-2,16384,0,0.0,,Google Compute Engine
+1765216,c4a-highmem-32,262144,0,0.0,,Google Compute Engine
+1765213,c4a-highmem-4,32768,0,0.0,,Google Compute Engine
+1765217,c4a-highmem-48,393216,0,0.0,,Google Compute Engine
+1765218,c4a-highmem-64,524288,0,0.0,,Google Compute Engine
+1765219,c4a-highmem-72,589824,0,0.0,,Google Compute Engine
+1765214,c4a-highmem-8,65536,0,0.0,,Google Compute Engine
+1765193,c4a-standard-1,4096,0,0.0,,Google Compute Engine
+1765197,c4a-standard-16,65536,0,0.0,,Google Compute Engine
+1765194,c4a-standard-2,8192,0,0.0,,Google Compute Engine
+1765198,c4a-standard-32,131072,0,0.0,,Google Compute Engine
+1765195,c4a-standard-4,16384,0,0.0,,Google Compute Engine
+1765199,c4a-standard-48,196608,0,0.0,,Google Compute Engine
+1765200,c4a-standard-64,262144,0,0.0,,Google Compute Engine
+1765201,c4a-standard-72,294912,0,0.0,,Google Compute Engine
+1765196,c4a-standard-8,32768,0,0.0,,Google Compute Engine
+700094,ct3-hightpu-4t,348160,0,0.0,,Google Compute Engine
+700095,ct3p-hightpu-4t,348160,0,0.0,,Google Compute Engine
+1741014,ct6e-standard-1t,180224,0,0.0,,Google Compute Engine
+1741015,ct6e-standard-4t,737280,0,0.0,,Google Compute Engine
+1741017,ct6e-standard-8t,1474560,0,0.0,,Google Compute Engine
+337016,e2-highcpu-16,16384,0,0.0,0.39576192,Google Compute Engine
+337002,e2-highcpu-2,2048,0,0.0,0.04947024,Google Compute Engine
+337032,e2-highcpu-32,32768,0,0.0,0.79152384,Google Compute Engine
+337004,e2-highcpu-4,4096,0,0.0,0.09894048,Google Compute Engine
+337008,e2-highcpu-8,8192,0,0.0,0.19788096,Google Compute Engine
+336016,e2-highmem-16,131072,0,0.0,0.7231972799999999,Google Compute Engine
+336002,e2-highmem-2,16384,0,0.0,0.09039965999999999,Google Compute Engine
+336004,e2-highmem-4,32768,0,0.0,0.18079931999999999,Google Compute Engine
+336008,e2-highmem-8,65536,0,0.0,0.36159863999999997,Google Compute Engine
+334004,e2-medium,4096,0,0.0,0.0553173,Google Compute Engine
+334002,e2-micro,1024,0,0.0,0.04654671,Google Compute Engine
+334003,e2-small,2048,0,0.0,0.04947024,Google Compute Engine
+335016,e2-standard-16,65536,0,0.0,0.53609136,Google Compute Engine
+335002,e2-standard-2,8192,0,0.0,0.06701142,Google Compute Engine
+335032,e2-standard-32,131072,0,0.0,1.07218272,Google Compute Engine
+335004,e2-standard-4,16384,0,0.0,0.13402284,Google Compute Engine
+335008,e2-standard-8,32768,0,0.0,0.26804568,Google Compute Engine
+1000,f1-micro,614,0,0.0,,Google Compute Engine
